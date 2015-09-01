@@ -1,0 +1,1289 @@
+/* LESS Variables
+-------------------------*/
+
+@color-primary:							#70b9a0; // Accent color for links, backgrounds etc.
+@color-text: 								#666;
+@color-heading:							#666;
+@color-muted: 							#999;
+@color-danger: 							#e60000;
+@border-color: 							#ddd;  
+@border-color-light:				#eee;
+@background-color-light: 		#f8f8f8;
+@background-color-dark: 		#4c4f49;
+
+.transition(@arguments) {
+	-webkit-transition: @arguments;
+	-moz-transition: @arguments;
+	-ms-transition: @arguments;
+	-o-transition: @arguments;
+	transition: @arguments;
+}
+
+.transform(@arguments) {
+	-webkit-transform: @arguments;
+	-moz-transform: @arguments;
+	-ms-transform: @arguments;
+	-o-transform: @arguments;
+	transform: @arguments;
+}
+
+ 
+/* General Styles 
+-------------------------*/
+
+body {
+	direction: rtl;
+  unicode-bidi: embed;
+} 
+
+table {
+	margin-bottom: 30px;
+}
+
+td, th {
+	padding: 0 0 0 1em;
+}
+
+dd {
+	margin-left: 0;
+	margin-right: 1em;
+}
+
+
+ul, ol {
+	padding-left: 0;
+	padding-right: 20px;
+}
+
+input[type=checkbox], input[type=radio] {
+	margin-right: 0;
+	margin-left: 0.5em;
+}
+
+input[type=file] {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.tooltip.right { 
+	margin-left: 0;
+	margin-left: 2px; 
+}
+
+.tooltip.left { 
+	margin-left: 0; 
+	margin-right: -2px; 
+}
+
+.panel-group {
+	.panel {
+		.panel-heading {
+			overflow: hidden;
+			.panel-title {
+				float: right;
+			}
+			.details {
+				float: left;
+				span {
+					margin-left: 0;
+					margin-right: 1em;
+				}
+			}
+		}
+	}
+}
+
+.social, .social-transparent {
+	i {
+		margin: 0 0 10px 5px;
+	}
+}
+
+.section-title {
+	&::after {
+		left: 100%;
+		right: 0;
+		margin-left: 0;
+		margin-right: 1em;
+	}
+	span {
+		padding-right: 0;
+		padding-left: 1em;
+		&::after {
+			left: 100%;
+			right: 0;
+		}
+	}
+}
+
+.content-with-details {
+	> div {
+		.on-hover {
+			left: 100%;
+			right: 0;
+		}
+	}
+}
+
+
+/* Header
+-------------------------*/
+
+body.show-nav {
+	@media(max-width: 767px) {
+		left: 0;
+		right: -75%;
+	}
+}
+
+header.navbar {
+	text-align: center;
+	#login-bar-header {
+		text-align: left;
+		.badge {
+			margin-left: 0;
+			margin-right: 5px;
+		}
+	}
+	.container {
+		.navbar-collapse {
+			max-height: none;
+			padding: 0;
+			border: none;
+			-webkit-box-shadow: none;
+			box-shadow: none;
+			&.in {
+				overflow-y: visible;
+			}
+			@media(max-width: 767px) {
+				left: 0;
+				right: 100%;
+				text-align: right;
+			}
+		}
+	}
+	.navbar-header {
+		.navbar-toggle {
+			right: 0;
+			left: 15px;
+			margin: 3px 30px 0 0;
+		}
+		.navbar-contact-details {
+			@media(min-width: 768px) {
+				text-align: left;
+			}
+		}
+	}
+	.container {
+		.navbar-brand {
+			@media(min-width: 768px) {
+				float: right;
+			}
+		}
+	}
+	&.nav-right {
+		.navbar-nav, nav > div {
+			@media(min-width: 768px) {
+				float: left;
+			}
+		}
+		.navbar-contact-details {
+			@media(min-width: 768px) {
+				float: right;
+			}
+			div {
+				text-align: right;
+			}
+		}
+	}
+	.navbar-contact-details {
+		@media(min-width: 768px) {
+			text-align: left;
+		}
+	}	
+	.navbar-nav, nav > div {
+		> ul {
+			> li {
+				margin-right: 0;
+				margin-left: 1px;
+				@media(min-width: 768px) {
+					float: right;
+				}
+				&::after, &.current-menu-item::after, &.current-menu-parent::after, &.current-menu-ancestor::after {
+					left: 100%;
+					right: 0;
+				}
+				a {
+					padding-left: 15px;
+					padding-right: 15px;
+				}
+				&.menu-item-has-children, &.menu-item-language {
+					a {
+						padding-right: 25px;
+						padding-left: 40px;
+						@media(min-width: 768px) {
+							&::after {
+								right: auto;
+								left: 12px;
+							}
+						}
+					}
+				}
+				ul.sub-menu {
+					@media(min-width: 768px) {
+						left: auto;
+						right: 0;
+						text-align: right;
+					}
+					li {
+						padding-left: 0;
+						padding-right: 15px;
+						@media(min-width: 768px) {
+							padding-left: auto; // ?
+							padding-right: 0;
+						}
+						&.menu-item-has-children {
+							a {
+								@media(min-width: 768px) {
+									padding-right: 40px;
+									&::after {
+										right: 0;
+										left: 18px;
+									}
+								}
+							}
+							.sub-menu {								
+								@media(min-width: 768px) {
+									left: 0;
+									right: 100%;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+
+/* Footer
+-------------------------*/
+
+#footer {
+	@media(min-width: 768px) {
+		text-align: right;
+	}
+	#footer-bottom {
+		.social-transparent {
+			@media(min-width: 768px) {
+				text-align: left;
+			}
+		}
+	}
+	ul.menu-footer {
+		li {
+			@media(min-width: 768px) {
+				margin-right: 30px;
+			}
+		}
+	}
+}
+
+
+/* Pages
+-------------------------*/
+
+.page-title {
+	font-size: 2em;
+	font-weight: 300;
+	color: @color-muted;
+}
+
+#page-banner {
+	.overlay {
+		left: 100%; // ?
+		right: 0;
+	}
+}
+
+/* Page: Single
+-------------------------*/
+
+body.single, body.archive {
+	.social-transparent {
+		i {
+			@media(min-width: 768px) {
+				margin-right: 0;
+				margin-left: 5px;
+			}
+		}
+	}
+}
+
+
+/* Page: Home
+-------------------------*/
+
+#home-slideshow {
+	.title {
+		margin-left: auto; // ?
+		margin-right: 10%;
+		@media(min-width: 1200px) {
+			margin-left: auto; // ?
+			margin-right: 0;
+		}
+	}
+	.description {
+		margin-left: 0; // ?
+		margin-right: 10%;
+		@media(min-width: 1200px) {
+			margin-left: 0; // ?
+			margin-right: 0;
+		}
+		.arrow-right {
+			left: 100%;
+			right: 0;
+		}
+		.property-price {
+			float: right;
+		}
+		.property-details {
+			float: left;
+		}
+	}
+}
+
+
+/* Property: Listing
+-------------------------*/
+
+#property-items {
+	.property-item {
+		img {
+			.transform( translate3d( 10px, 0, 0 ) );
+		}
+		figcaption {
+			text-align: right;
+		}
+		.property-title {
+			text-align: right;
+		}
+		.property-excerpt {
+			text-align: right;
+			&::after {
+				left: auto; // ? 
+				right: 0;
+			}
+		}
+		.property-price {
+			@media(min-width: 768px) {
+				text-align: right;
+			}
+			i {
+				float: right;
+				margin-right: 0;
+				margin-left: 12px;
+			}
+			.property-status {
+				float: right;
+			}
+		}
+	}	
+}
+
+.property-meta {
+	@media(min-width:768px) {
+		text-align: right;
+	}
+	.meta-title {	
+		float: right;
+	}
+	> div {
+		float: right;
+	}
+}
+
+/* Template: Search Results
+-------------------------*/
+
+.search-results-header {
+	.search-results-order {
+		float: left;
+		.select {
+			&::after {
+				right: 0;
+				left: 14px;
+			}
+		}
+	}
+	.search-results-view {
+		float: left;
+		margin-left: 0;
+		margin-right: 5px;
+	}
+}
+
+// List View (Default Styling = Grid View)
+#property-search-results[data-view="list-view"] {
+	#property-items {
+		li {
+			.property-item {
+				@media(min-width: 992px) {
+					.property-thumbnail {
+						float: right;
+					}
+					.property-content {
+						float: right;
+						.property-price {
+							left: 0;
+							right: 40%;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+						
+
+/* Page: Styling
+-------------------------*/
+
+#pagination {
+	.page-numbers {
+		li {
+			float: right;
+		}
+	}
+}
+
+
+/* Google Map
+-------------------------*/
+
+#map-wrapper {
+	#loading, #map-overlay-no-results {
+		left: 0;
+		right: 50%;
+		margin-left: 0;
+		margin-right: -30px;
+	}
+	#map-overlay-no-results {
+		margin-left: 0;
+		margin-right: -125px;
+	}
+	#map-controls {
+		right: 0;
+		left: 10px;
+		text-align: left;	
+		#current-location i {
+			margin: 0 0 0 5px;
+		}
+	}
+}
+
+div[id^=google-map] {
+	.infoBox {
+		img[src*="close.png"] {
+			right: 0;
+			left: -2px;
+		}
+	}
+	#map-marker-container, .map-marker-container {
+		.transition( all 0.3s );
+		.arrow-down {
+			left: 0;
+			right: 20px;
+		}
+	}
+}
+
+a.view-on-google-maps-link {
+	text-align: left;
+}
+
+
+/* Template: "Contact"
+-------------------------*/
+
+.template-contact {
+	.contact-detail {
+		i {
+			margin-right: 0;
+			margin-left: 10px;
+		}
+	}
+}
+
+.contact-detail {
+	i {
+		margin-right: 0;
+		margin-left: 5px;
+	}
+}
+
+	
+/* Page: Single Property
+-------------------------*/
+
+body.single-property {
+	.property-header-container {
+		left: auto; // ?
+		right: 0;
+		@media(min-width:768px) {
+			text-align: right;
+		}
+	} 
+	.property-header {
+		h1.title {
+			padding: 15px 20px 15px 15px;
+		} 
+		span { 
+			padding-right: 0;
+			padding-left: 3px;
+		}
+	}
+	#property-layout-full-width {
+		.property-header {
+			margin-left: 0;
+			margin-right: 10%;
+			@media(min-width: 768px) {
+				margin-left: auto;
+				margin-right: 0;
+			}
+		}
+	}
+	#property-features {
+		li {
+			i.fa-check, i.fa-times {
+				margin-right: 0;
+				margin-left: 10px;
+			}
+			i.fa-question-circle {
+				margin-left: 0;
+				margin-right: 10px;
+			}
+		}
+	}
+	#similar-properties #property-items .property-item > div {
+		float: right;
+		width: 555px;
+	} 
+}  
+
+#agent {
+	.contact {
+		i {
+			margin-right: 0;
+			margin-left: 5px;
+		}
+	}
+}
+
+
+/* Template: Map Vertical (AirBnB)
+-------------------------*/
+body.page-template-template-map-vertical-php {
+	#map-vertical {
+		#map-container {
+			left: auto; // ?
+			right: 0;
+		}
+	}
+}
+
+
+/* Template: Intro
+-------------------------*/
+
+#intro-wrapper {
+	min-height: 100%;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-position: 50% 50%;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	@media(min-width: 768px) {
+		position: absolute;
+		overflow: hidden;
+	}
+	.wrapper {
+		padding-top: 30px;
+	}
+	.flexslider, .background-content {
+		position: absolute;
+		z-index: 1;
+		width: 100%;
+		height: 100%;
+		.slides {
+			width: 100%;
+			height: 100%;
+		}
+		li {
+			width: 100%;
+			height: 100%;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			background-size: cover;
+			background-repeat: no-repeat;
+		}
+	}
+	.flex-direction-nav {
+		display: none;
+	}
+	.intro-bg {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba( 0, 0, 0, 0.1 );
+	}
+	.intro-left-bg {
+		opacity: 0;
+	}
+	.intro-right-bg {
+		left: auto;
+		right: 0;
+		@media(min-width:768px) {
+			opacity: 1;
+		}
+	}
+	.intro-left, .intro-right {
+		margin-bottom: 30px;
+		@media(min-width:768px) {
+			margin-bottom: 0;
+		}
+	}
+	.logo {
+		margin-bottom: 30px;
+	}
+	.intro-left {
+		text-align: center;
+		@media(min-width:768px) {
+			padding: 0 50px;
+			text-align: left;
+		}
+	}
+	.intro-right {
+		position: relative;
+		.intro-title {
+			margin: 0;
+			padding: 20px 30px;
+			color: #fff;
+			text-align: center;
+			background-color: fade( @background-color-dark, 95% );
+			@media(min-width:768px) {
+				padding-left: 50px;
+				text-align: right;
+			}
+			.title {
+				margin: 0;
+				color: #fff;
+			}
+		}	
+		@media(min-width:768px) {
+			padding: 0 50px;
+		}
+	}
+	.property-search-form {
+		background-color: rgba( 255, 255, 255, 0.95 );
+		.form-group {
+			@media(min-width: 768px) and (max-width:991px) {
+				width: 100%;
+			}
+			width: 50%;
+		}
+	}
+	div[id^=google-map] {
+		height: 300px;
+	}
+	.intro-search, .intro-map {
+		position: relative;
+		top: 0;
+		opacity: 1;
+		.transition(all 0.8s);
+		.transform( scale(1) );
+		@media(min-width:768px) {
+			right: auto;
+			//width: 100%;
+		}
+		.toggle {
+			opacity: 0.8;
+			font-size: 14px;
+			color: #fff;
+			@media(min-width: 992px) {
+				position: absolute;
+				top: 22px;
+				right: inherit;
+				left: 30px;
+			}
+			&:hover {
+				opacity: 1;
+			}
+		} 
+	}
+	.intro-map {
+		position: absolute;
+		left: 15px;
+		right: 15px;
+		@media(min-width:768px) {
+			left: 50px;
+			right: 15px;	
+		}
+		#map-no-properties-found {
+			background-color: rgba( 255, 255, 255, 0.95 );
+		}
+	}
+	.transform {
+		opacity: 0;
+		.transform( scale(0) );
+	}
+	.social {
+		opacity: 0;		
+		position: relative;
+		width: 100%;
+		bottom: 30px;
+		left: 0;
+		text-align: center;
+		@media(min-width:768px) {
+			position: absolute;
+		}
+		i {
+			margin: 5px;
+		}
+	}
+}
+
+#toggle-intro-wrapper {
+	right: 0;
+	left: 35px;
+}
+
+
+/* Template: Property Submit
+-------------------------*/
+
+#property-submit {
+	#property-features {
+		li {
+			float: right;
+		}
+	}
+	ul.gallery-images {
+		li {
+			float: right;
+			margin: 10px 0 0 10px;
+		}
+	}
+}
+
+i.delete-uploaded-image {
+	right: auto; // ?
+	left: 0;
+}
+
+
+/* Template: Property Submit Listing
+-------------------------*/
+
+body.page-template-template-property-submit-listing-php {
+	form.paypal-button {
+		float: right;
+	}
+}
+
+
+/* Widgets
+-------------------------*/
+
+
+
+ul#sidebar, #footer {
+	li.widget {
+		.widget-content {
+			ul, ol {
+				padding-left: 0;
+				padding-right: 20px;
+			}
+		}
+	}
+}
+
+#widget_testimonials {
+	blockquote {
+		text-align: right;
+		.arrow-up {
+			left: 50%;
+			margin-left: 0; // ?
+			margin-right: -20px;
+		}
+	}
+}
+
+#widget_latest_posts {
+	.flexslider-nav-off .flex-prev {
+		left: auto; // ?
+		right: 0;
+	}
+	.flexslider-nav-off .flex-next {
+		right: auto; // ?
+		left: 0;
+	}
+}
+
+#wp-calendar {
+	#next {
+		text-align: left;
+	}
+	#prev {
+		text-align: right;
+	}
+}
+
+
+/* Blog
+-------------------------*/
+
+.entry-header {
+	.header-meta {
+		float: right;
+		margin-right: 0;
+		margin-left: 0.5em;
+	}
+}
+
+
+/* Comments
+-------------------------*/
+
+.comment-list {
+	ul {
+		margin: 40px 85px 0 0;
+	}
+	li {
+		&:before {
+			left: 0;
+			right: -50px;
+		}
+	}
+	.comment-avatar {
+		float: right;
+	}
+}
+
+#respond {
+	#reply-title {
+		text-align: left;
+	}
+}
+
+
+/* Custom Post Type: Agent
+-------------------------*/
+
+.agent-details {
+	.contact {
+		i {
+			margin-right: 5px;
+			margin-left: 5px;
+		}
+	}
+}
+
+
+/* Custom Post Type: Testimonial
+-------------------------*/
+
+
+.testimonial-item {
+	.arrow-left {
+		right: -45px;
+		border-right-color: transparent !important;
+		border-left-color: @background-color-light;
+	}
+	.content {
+		blockquote {
+			text-align: right;
+		}
+	}
+}
+
+
+/* Default WordPress classes
+-------------------------*/
+
+/* Alignment */
+
+.alignleft {
+	float: right;
+}
+
+.alignright {
+	float: left;
+}
+
+blockquote.alignleft,
+img.alignleft {
+	margin: 0.5em 0 0.5em 1.5em;
+}
+
+.wp-caption.alignleft {
+	margin: 0.5em 0 0.5em 1em;
+}
+
+blockquote.alignright,
+img.alignright {
+	margin: 0.5em 1.5em 0.5em 0;
+}
+
+.wp-caption.alignright {
+	margin: 0.5em 1em 0.5em -0.5em;
+} 
+
+.alignnone .wp-caption-text {
+	margin-right: 0; // ?
+	margin-left: 0;
+}
+
+.wp-caption-text {
+	left: 10px;
+	right: 0;
+}
+
+/* WP Gallery */
+
+[id^="gallery-"] {
+	&.gallery {
+		.gallery-item {
+			float: right;
+		}
+	}
+}
+
+
+.gallery-columns-1 .gallery-item:nth-of-type(1n),
+.gallery-columns-2 .gallery-item:nth-of-type(2n),
+.gallery-columns-3 .gallery-item:nth-of-type(3n),
+.gallery-columns-4 .gallery-item:nth-of-type(4n),
+.gallery-columns-5 .gallery-item:nth-of-type(5n),
+.gallery-columns-6 .gallery-item:nth-of-type(6n),
+.gallery-columns-7 .gallery-item:nth-of-type(7n),
+.gallery-columns-8 .gallery-item:nth-of-type(8n),
+.gallery-columns-9 .gallery-item:nth-of-type(9n) {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+.gallery-caption:before {
+	left: 100%;
+	right: 0;
+}
+
+
+/* JP Carousel Gallery Plugin
+-------------------------*/
+
+.jp-carousel-wrap .jp-carousel-light .jp-carousel-close-hint, .jp-carousel-wrap .jp-carousel-close-hint {
+	span {
+		float: left;
+	}
+}
+
+.jp-carousel-next-button, .jp-carousel-previous-button {
+	&:before {
+		left: 0;
+		right: 10px;
+		content: "\F104";
+	}
+}
+
+.jp-carousel-next-button:before {
+	left: 10px;
+	right: auto;
+}
+
+
+/* Contact Form 7 Plugin
+-------------------------*/
+
+div.wpcf7 {
+	img.ajax-loader {
+		margin-left: 0;
+		margin-right: 1em;
+	}
+	img.wpcf7-captchac {
+		float: right;
+	}
+}
+
+
+/* Flexslider
+-------------------------*/
+
+[class^="flexslider"] {
+	&:hover .flex-direction-nav {
+		.flex-prev {
+			left: auto; // ?
+			right: 0;
+		}
+		.flex-next {
+			right: auto; // ?
+			left: 0;
+		}
+	}
+}
+
+.flexslider-nav, .flexslider-nav-off {
+	.flex-prev {
+		left: 0;
+		right: 20px;
+	}
+	.flex-next {
+		right: 0;
+		left: 20px;
+	}
+}
+
+.flex-direction-nav a {
+	&.flex-prev {
+		left: auto; // ?
+		right: 10px;
+	}
+	&.flex-next {
+		right: auto; // ?
+		left: 10px;
+	}
+}
+
+.flexslider-thumbnail-navigation {
+	li {
+		margin-right: 0;
+		margin-left: 15px;
+	}
+}
+
+
+/* Owl Carousel
+-------------------------*/
+
+.owl-carousel {
+	.property-price {
+		i {
+			float: left;
+		}
+	}
+}
+
+.owl-theme .owl-controls {
+	.owl-nav {
+		[class*='owl-'] {
+			margin-left: 5px;
+		  margin-right: 0;
+	  }
+	}
+}
+
+/*!
+ * Datepicker for Bootstrap
+ *
+ * Copyright 2012 Stefan Petre
+ * Improvements by Andrew Rowls
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ */
+
+.datepicker.datepicker-rtl {
+  direction: rtl;
+}
+.datepicker.datepicker-rtl table tr td span {
+  float: left;
+}
+.datepicker-dropdown {
+  top: 0;
+  left: auto; // ?
+	right: 0;
+}
+.datepicker-dropdown.datepicker-orient-left:before {
+  left: 0;
+  right: 6px;
+}
+.datepicker-dropdown.datepicker-orient-left:after {
+  left: 0;
+  right: 7px;
+}
+.datepicker-dropdown.datepicker-orient-right:before {
+  right: 0;
+  left: 6px;
+}
+.datepicker-dropdown.datepicker-orient-right:after {
+  right: 0;
+  left: 7px;
+}
+.datepicker-dropdown.datepicker-orient-top:before {
+  top: 0;
+  right: -7px
+}
+.datepicker table tr td span {
+  float: right;
+}
+.datepicker .cw {
+  padding: 0 5px 0 2px;
+}
+.datepicker.dropdown-menu {
+  left: auto; // ?
+  right: 0;
+  float: right;
+  *border-right-width: 0;
+  *border-left-width: 2px;
+}
+
+
+/* Chosen - Custom Select Boxes
+-------------------------*/
+
+.chosen-container {
+	&.chosen-container-single {
+		&::after {
+			right: auto;
+			left: 14px;
+		}
+	}
+}
+
+/* IDX Plugin - dsIDXpress
+http://dsidxpress.com/
+-------------------------*/
+
+body.dsidx {
+
+#dsidx {
+	#dsidx-listings {
+		.dsidx-listing {
+			.dsidx-primary-data {
+				@media(min-width:992px) {
+					padding-left: 0;
+					padding-right: 250px;
+				}
+			}
+			.dsidx-secondary-data {
+				padding-left: 0;
+				padding-right: 20px;
+				> div {
+					float: right;
+					&::before {
+						left: auto; // ?
+						right: 0;
+					}
+				}
+			}
+		}
+	}
+	#dsidx-header {
+		#dsidx-primary-data {
+			th {
+				padding: 5px 20px 5px 10px;
+			}
+		}
+		.shortsale-notice {
+			padding-left: 0;
+			padding-right: 20px;
+		}
+	}
+	#dsidx-secondary-data, .dsidx-supplemental-data {
+		border-left: none;
+		border-right: 1px solid @border-color-light;
+		th, td {
+			border-right: none;
+			border-left: 1px solid @border-color-light;
+		}
+		img {
+			margin-right: 0;
+			margin-left: 5px;
+		}
+	}
+}
+
+// Shortcode - Listings
+.dsidx-results {
+	li.dsidx-prop-summary {
+		.dsidx-prop-features {
+			padding-left: 0;
+			padding-right: 270px;
+			> div {
+				float: right;
+				padding-left: 15px;
+				padding-right: 15px;
+				&::before {
+					left: auto; // ?
+					right: 0;
+				}
+			}
+		}
+	}
+} 
+
+// Shortcode - Single Property
+.dsidx-shortcode-item {
+	table {
+		margin-left: auto !important; // ?
+		margin-right: 0 !important;
+		border-left: none;
+		border-right: 1px solid @border-color-light;
+		th, td {
+			border-right: none;
+			border-left: 1px solid @border-color-light;
+		}
+	}	
+	.dsidx-photos {
+		text-align: left !important;
+	}
+	.dsidx-shortcode-map {
+		margin-left: auto !important; // ?
+		margin-right: 0 !important;
+	}
+	p {
+		text-align: left !important;
+	}
+}
+
+// Widget - Search
+.dsidx-search-widget {
+	#idx-q-PriceMin {
+		float: right;
+	}
+	#idx-q-PriceMax {
+		float: left;
+	}
+}
+
+// Widget - Single Listitng
+.dsidx-widget-single-listing {
+	.dsidx-widget-single-listing-photos {
+		.dsidx-widget-single-listing-slideshow-control.dsidx-widget-single-listing-slideshow-prev {
+			left: 0;
+			right: 5px;
+		}
+		.dsidx-widget-single-listing-slideshow-control.dsidx-widget-single-listing-slideshow-next {
+			right: 0;
+			left: 5px;
+		}
+	}
+}
+
+// Widget: Listings - Latest Real Estate
+div.dsidx-results-widget {
+	.dsidx-controls {
+		a {
+			padding: 0 0 0 5px !important;
+		}
+	}
+}
+
+} // body.dsidx

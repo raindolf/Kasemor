@@ -1,0 +1,106 @@
+/* Print Stylesheet
+https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css
+https://github.com/twbs/bootstrap/blob/0dea8b0c7473c1db4aea7accfd0a68cbf09b9576/less/print.less
+-------------------------*/
+@media print {
+
+	body {
+		font-family: Georgia, serif !important;
+		font-size: 10pt;
+		color: #000;
+	}
+	
+	a {
+		color: #000 !important;
+	}
+	
+	// http://blog.berylliumwork.com/2013/05/printing-with-bootstrap.html
+	a[href]:after {
+	  content: none;
+	}
+	
+	// CUSTOM - Single Property
+	body.single-property {	
+		#property-layout-full-width {
+			margin-top: 0;
+		}
+		.property-image {
+			position: static !important;
+		}
+		.property-image-container {
+			height: auto !important;
+			.flexslider-thumbnail {
+				height: auto !important;
+				.flex-viewport ul.slides {
+					width: 100% !important;
+				}
+				li {
+					display: none !important;
+					width: 100% !important;
+					margin: 0;
+					&.flex-active-slide {
+						display: block !important;
+					}
+				}
+			}
+		}	
+		.property-header-container {
+			position: static;
+			.property-header {
+				.container, h1.title, .meta {
+					padding: 0;
+				}
+			}
+		}
+		.property-meta {
+			padding-bottom: 20px;
+			border-bottom: 1px solid #eee;
+		}
+		.content-box {
+			padding: 0;
+		}		
+		.section-title {
+			margin-bottom: 0.5em;
+			font-weight: 700;
+			text-transform: none;
+		}		
+		#location, #agent {
+			page-break-before: always !important;
+		}		
+		#property-features {
+			clear: both;
+			//page-break-before: always !important;
+			li a {
+				line-height: 20px;
+			}
+		}		
+		#location, #agent {
+			.title {
+				font-size: 1.5em;
+			}
+			.social-transparent, .agent-more-link {
+				display: none;
+			}
+		}			
+	}
+	
+	// Hide These Elements
+	//.flexslider-thumbnail-navigation,
+	.property-image-container,
+	.property-video-thumbnail,
+	.add-to-favorites,
+	#footer, 
+	#sidebar, 
+	#print,
+	#map-controls,  
+	.view-on-google-maps-link, 
+	.social-transparent, 
+	#agent h4, 
+	#agent img,
+	#contact-form-agent, 
+	#fixed-controls,
+	#contact-form {
+		display: none !important;
+	}
+
+}

@@ -1,0 +1,26 @@
+/* Property Meta Box - Floor Plan
+-------------------------*/
+#floor-plan-container .floor-plan-item {
+  overflow: hidden;
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+  border-bottom: 2px solid #eee;
+}
+#floor-plan-container .floor-plan-item > div {
+  width: 48%;
+  margin-right: 2%;
+  float: left;
+}
+#floor-plan-container input,
+#floor-plan-container label,
+#floor-plan-container textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.5em;
+}
+#floor-plan-container #floor_plan_image_thumbnail {
+  max-width: 150px;
+}
+#floor-plan-container a {
+  margin-top: 1em;
+}

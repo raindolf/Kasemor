@@ -1,0 +1,5934 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Realty\n"
+"POT-Creation-Date: 2015-02-23 07:38+0100\n"
+"PO-Revision-Date: 2015-02-23 07:39+0100\n"
+"Last-Translator: ThemeTrail <support@themetrail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "Sorry, but the very page you are looking for does not exist"
+msgstr ""
+
+#: ../404.php:19
+msgid "Here are some great starting points to get you back on track:"
+msgstr ""
+
+#: ../404.php:23 ../footer.php:107 ../template-intro.php:58
+#: ../lib/meta-box.php:368 ../lib/meta-box.php:374
+#: ../lib/redux/realty/realty-config.php:1226
+#: ../lib/widgets/widget-property-search.php:13
+#: ../lib/widgets/widget-property-search.php:24
+msgid "Property Search"
+msgstr ""
+
+#: ../author.php:132 ../single-property.php:794
+#: ../lib/redux/realty/realty-config.php:2000
+msgid "Contact"
+msgstr ""
+
+#: ../author.php:138 ../comments.php:50 ../single-property.php:807
+msgid "Name"
+msgstr ""
+
+#: ../author.php:138 ../single-property.php:807
+msgid "Please enter your name."
+msgstr ""
+
+#: ../author.php:139 ../comments.php:51 ../single-property.php:808
+#: ../lib/meta-box/demo/demo.php:263
+#: ../lib/redux/realty/realty-config.php:2059
+msgid "Email"
+msgstr ""
+
+#: ../author.php:139 ../single-property.php:808
+#: ../lib/inc/template/login-modal.php:46
+msgid "Please enter your email."
+msgstr ""
+
+#: ../author.php:140 ../single-property.php:809
+#: ../lib/redux/realty/realty-config.php:2037
+msgid "Phone"
+msgstr ""
+
+#: ../author.php:140 ../single-property.php:809
+msgid "Please enter only digits for your phone number."
+msgstr ""
+
+#: ../author.php:144 ../single-property.php:813
+msgid "Message"
+msgstr ""
+
+#: ../author.php:144 ../single-property.php:813
+msgid "Please enter your message."
+msgstr ""
+
+#: ../author.php:149 ../single-property.php:818
+msgid "Send Message"
+msgstr ""
+
+#: ../author.php:171 ../single-property.php:840
+msgid "Message has been sent successfully."
+msgstr ""
+
+#: ../author.php:192
+msgid "Publish at least one property to enable your public user profile."
+msgstr ""
+
+#: ../comments.php:12
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:12
+#, php-format
+msgid "%1$s Comments"
+msgstr ""
+
+#: ../comments.php:26
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:27
+msgid "&laquo; Older Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Newer Comments &raquo;"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:40
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:52 ../template-user-profile.php:208
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:56
+msgid " "
+msgstr ""
+
+#: ../comments.php:58
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Comment"
+msgstr ""
+
+#: ../content-none.php:2 ../index.php:78
+msgid "No posts found."
+msgstr ""
+
+#: ../footer.php:88
+msgid "Up"
+msgstr ""
+
+#: ../footer.php:90 ../lib/inc/template/search-form-mini.php:440
+#: ../lib/inc/template/search-form.php:440
+msgid "Search"
+msgstr ""
+
+#: ../footer.php:104 ../lib/redux/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../functions.php:254
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:255
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:288
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:299
+msgid "Property Sidebar"
+msgstr ""
+
+#: ../functions.php:310
+msgid "Agent Sidebar"
+msgstr ""
+
+#: ../functions.php:321
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:332
+msgid "Contact Sidebar"
+msgstr ""
+
+#: ../functions.php:343
+msgid "IDX Sidebar"
+msgstr ""
+
+#: ../functions.php:354
+msgid "Footer Column 1"
+msgstr ""
+
+#: ../functions.php:365
+msgid "Footer Column 2"
+msgstr ""
+
+#: ../functions.php:376
+msgid "Footer Column 3"
+msgstr ""
+
+#: ../functions.php:647 ../lib/meta-box/demo/demo.php:166
+#: ../lib/meta-box/demo/slider.php:14
+msgid "$"
+msgstr ""
+
+#: ../functions.php:653
+msgid "Price Upon Request"
+msgstr ""
+
+#: ../functions.php:711
+msgid "New Offer"
+msgstr ""
+
+#: ../functions.php:726 ../lib/meta-box.php:44
+msgid "Featured Property"
+msgstr ""
+
+#: ../functions.php:764
+msgid "Watch Trailer"
+msgstr ""
+
+#: ../functions.php:792 ../lib/inc/custom-post-type-property.php:9
+#: ../lib/redux/realty/realty-config.php:745
+msgid "Property"
+msgstr ""
+
+#: ../functions.php:800 ../functions.php:829
+msgid "Name:"
+msgstr ""
+
+#: ../functions.php:800 ../functions.php:829
+msgid "Phone:"
+msgstr ""
+
+#: ../functions.php:800
+msgid "Property:"
+msgstr ""
+
+#: ../functions.php:800 ../functions.php:829
+#: ../template-property-submit.php:185
+msgid "Message:"
+msgstr ""
+
+#: ../functions.php:822
+msgid "Message from"
+msgstr ""
+
+#: ../functions.php:876 ../taxonomy.php:84 ../template-property-search.php:102
+#: ../template-property-submit-listing.php:112 ../lib/shortcodes.php:322
+msgid "<i class=\"btn btn-default fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ../functions.php:877 ../taxonomy.php:85 ../template-property-search.php:103
+#: ../template-property-submit-listing.php:113 ../lib/shortcodes.php:323
+msgid "<i class=\"btn btn-default fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ../functions.php:897
+msgid "Continue reading .."
+msgstr ""
+
+#: ../functions.php:899
+msgid "Pages:"
+msgstr ""
+
+#: ../functions.php:925
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:951
+#, php-format
+msgid "<h5 class=\"fn\">%s</h5>"
+msgstr ""
+
+#: ../functions.php:954
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:959
+msgid "ago"
+msgstr ""
+
+#: ../functions.php:983
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../functions.php:984
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../functions.php:985
+msgid "Share on Google+"
+msgstr ""
+
+#: ../functions.php:991
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../functions.php:1070 ../lib/redux/realty/realty-config.php:1122
+msgid "Agent"
+msgstr ""
+
+#: ../functions.php:1173 ../template-user-profile.php:178
+msgid "Company Name"
+msgstr ""
+
+#: ../functions.php:1174 ../template-user-profile.php:193
+msgid "Office Phone Number"
+msgstr ""
+
+#: ../functions.php:1175 ../template-user-profile.php:198
+msgid "Mobile Phone Number"
+msgstr ""
+
+#: ../functions.php:1176 ../template-user-profile.php:203
+msgid "Fax Number"
+msgstr ""
+
+#: ../functions.php:1177 ../template-user-profile.php:144
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:1178 ../template-user-profile.php:149
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:1179 ../template-user-profile.php:154
+msgid "Google+"
+msgstr ""
+
+#: ../functions.php:1180 ../template-user-profile.php:159
+msgid "Linkedin"
+msgstr ""
+
+#: ../functions.php:1208 ../template-user-profile.php:127
+msgid "Profile Picture"
+msgstr ""
+
+#: ../header.php:67
+msgid "Skip navigation"
+msgstr ""
+
+#: ../index.php:47
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+#: ../index.php:48
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../index.php:49
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../index.php:52
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../index.php:55
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../index.php:55
+msgid "F Y"
+msgstr ""
+
+#: ../index.php:58
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../index.php:58
+msgid "Y"
+msgstr ""
+
+#: ../index.php:60
+msgid "Archives"
+msgstr ""
+
+#: ../index.php:69
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: ../single-property.php:385 ../template-property-submit.php:959
+#: ../lib/meta-box.php:97 ../lib/redux/realty/realty-config.php:1187
+msgid "Available From"
+msgstr ""
+
+#: ../single-property.php:391 ../single-property.php:644
+#: ../template-property-submit.php:848 ../template-property-submit.php:1289
+#: ../template-property-submit.php:1344 ../lib/compare-properties.php:172
+#: ../lib/meta-box.php:148 ../lib/inc/template/property-item.php:89
+#: ../lib/redux/realty/realty-config.php:707
+#: ../lib/redux/realty/realty-config.php:720
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Size"
+msgstr ""
+
+#: ../single-property.php:397 ../single-property.php:647
+#: ../template-property-submit.php:853 ../template-property-submit.php:1294
+#: ../template-property-submit.php:1349 ../lib/compare-properties.php:173
+#: ../lib/meta-box.php:164 ../lib/inc/template/property-item.php:95
+#: ../lib/redux/realty/realty-config.php:708
+#: ../lib/redux/realty/realty-config.php:721
+msgid "Rooms"
+msgstr ""
+
+#: ../single-property.php:397 ../lib/inc/template/property-item.php:95
+msgid "Room"
+msgstr ""
+
+#: ../single-property.php:403 ../single-property.php:648
+#: ../template-home-slideshow.php:197 ../template-property-slideshow.php:129
+#: ../template-property-submit.php:949 ../template-property-submit.php:1299
+#: ../template-property-submit.php:1354 ../lib/compare-properties.php:174
+#: ../lib/meta-box.php:173 ../lib/inc/template/property-item.php:101
+#: ../lib/redux/realty/realty-config.php:709
+#: ../lib/redux/realty/realty-config.php:722
+msgid "Bedrooms"
+msgstr ""
+
+#: ../single-property.php:403 ../template-home-slideshow.php:197
+#: ../template-property-slideshow.php:129
+#: ../lib/inc/template/property-item.php:101
+msgid "Bedroom"
+msgstr ""
+
+#: ../single-property.php:409 ../single-property.php:649
+#: ../template-home-slideshow.php:198 ../template-property-slideshow.php:130
+#: ../template-property-submit.php:858 ../template-property-submit.php:1304
+#: ../template-property-submit.php:1359 ../lib/compare-properties.php:175
+#: ../lib/meta-box.php:182 ../lib/inc/template/property-item.php:107
+#: ../lib/redux/realty/realty-config.php:710
+#: ../lib/redux/realty/realty-config.php:723
+msgid "Bathrooms"
+msgstr ""
+
+#: ../single-property.php:409 ../template-home-slideshow.php:198
+#: ../template-property-slideshow.php:130
+#: ../lib/inc/template/property-item.php:107
+msgid "Bathroom"
+msgstr ""
+
+#: ../single-property.php:415 ../template-property-submit.php:954
+#: ../lib/compare-properties.php:176 ../lib/meta-box.php:191
+#: ../lib/redux/realty/realty-config.php:711
+#: ../lib/redux/realty/realty-config.php:724
+msgid "Garages"
+msgstr ""
+
+#: ../single-property.php:415
+msgid "Garage"
+msgstr ""
+
+#: ../single-property.php:420 ../lib/meta-box.php:74
+#: ../lib/redux/realty/realty-config.php:701
+#: ../lib/redux/realty/realty-config.php:719
+msgid "Property ID"
+msgstr ""
+
+#: ../single-property.php:439
+msgid "Print this page"
+msgstr ""
+
+#: ../single-property.php:640 ../template-property-submit.php:843
+#: ../template-property-submit.php:1284 ../template-property-submit.php:1339
+#: ../lib/compare-properties.php:168
+#: ../lib/inc/custom-post-type-property.php:167
+#: ../lib/redux/realty/realty-config.php:705
+msgid "Price"
+msgstr ""
+
+#: ../single-property.php:786 ../lib/inc/template/login-bar-header.php:120
+#: ../lib/inc/template/login-bar-header.php:121
+msgid "Profile"
+msgstr ""
+
+#: ../single-property.php:950
+msgid "Similar Properties"
+msgstr ""
+
+#: ../single.php:33
+msgid "Previous read:"
+msgstr ""
+
+#: ../single.php:46
+msgid "Next read:"
+msgstr ""
+
+#: ../taxonomy.php:23
+msgid "Location:"
+msgstr ""
+
+#: ../taxonomy.php:26
+msgid "Status:"
+msgstr ""
+
+#: ../taxonomy.php:29
+msgid "Type:"
+msgstr ""
+
+#: ../taxonomy.php:32
+msgid "Feature:"
+msgstr ""
+
+#: ../taxonomy.php:45 ../template-property-search.php:51
+#: ../lib/redux/realty/realty-config.php:823
+msgid "Grid View"
+msgstr ""
+
+#: ../taxonomy.php:46 ../template-property-search.php:52
+#: ../lib/redux/realty/realty-config.php:824
+msgid "List View"
+msgstr ""
+
+#: ../taxonomy.php:92
+msgid "Nothing Matches Your Criteria."
+msgstr ""
+
+#: ../template-contact.php:139 ../lib/shortcodes.php:541
+#: ../lib/inc/template/google-map-multiple-properties.php:267
+#: ../lib/inc/template/google-map-single-property.php:238
+msgid "Zoom In"
+msgstr ""
+
+#: ../template-contact.php:140 ../lib/shortcodes.php:542
+#: ../lib/inc/template/google-map-multiple-properties.php:268
+#: ../lib/inc/template/google-map-single-property.php:239
+msgid "Zoom Out"
+msgstr ""
+
+#: ../template-contact.php:141 ../lib/shortcodes.php:543
+#: ../lib/inc/template/google-map-multiple-properties.php:269
+#: ../lib/inc/template/google-map-single-property.php:240
+msgid "Map Type"
+msgstr ""
+
+#: ../template-contact.php:144 ../lib/shortcodes.php:546
+#: ../lib/inc/template/google-map-multiple-properties.php:272
+#: ../lib/inc/template/google-map-single-property.php:243
+msgid "Roadmap"
+msgstr ""
+
+#: ../template-contact.php:145 ../lib/shortcodes.php:547
+#: ../lib/inc/template/google-map-multiple-properties.php:273
+#: ../lib/inc/template/google-map-single-property.php:244
+msgid "Satellite"
+msgstr ""
+
+#: ../template-contact.php:146 ../lib/shortcodes.php:548
+#: ../lib/inc/template/google-map-multiple-properties.php:274
+#: ../lib/inc/template/google-map-single-property.php:245
+msgid "Hybrid"
+msgstr ""
+
+#: ../template-contact.php:147 ../lib/shortcodes.php:549
+#: ../lib/inc/template/google-map-multiple-properties.php:275
+#: ../lib/inc/template/google-map-single-property.php:246
+msgid "Terrain"
+msgstr ""
+
+#: ../template-contact.php:150 ../lib/shortcodes.php:552
+#: ../lib/inc/template/google-map-multiple-properties.php:278
+#: ../lib/inc/template/google-map-single-property.php:249
+msgid "Radius: 1000m"
+msgstr ""
+
+#: ../template-contact.php:150 ../lib/shortcodes.php:552
+#: ../lib/inc/template/google-map-multiple-properties.php:278
+#: ../lib/inc/template/google-map-single-property.php:249
+msgid "Current Location"
+msgstr ""
+
+#: ../template-intro.php:59
+msgid "Show Map"
+msgstr ""
+
+#: ../template-intro.php:65
+msgid "Property Map"
+msgstr ""
+
+#: ../template-intro.php:66
+msgid "Show Search"
+msgstr ""
+
+#: ../template-property-comparison.php:31
+msgid "You haven't added any properties to compare."
+msgstr ""
+
+#: ../template-property-comparison.php:99 ../lib/compare-properties.php:17
+#: ../lib/compare-properties.php:26
+msgid ""
+"Local storage is not supported by your browser. Please disable \\\"Private "
+"Mode\\\", or upgrade to a modern browser."
+msgstr ""
+
+#: ../template-property-search.php:45
+msgid "Search Results"
+msgstr ""
+
+#: ../template-property-search.php:50
+msgid "Reload"
+msgstr ""
+
+#: ../template-property-search.php:58
+msgid "Sort by Date (Newest First)"
+msgstr ""
+
+#: ../template-property-search.php:59
+msgid "Sort by Date (Oldest First)"
+msgstr ""
+
+#: ../template-property-search.php:60
+msgid "Sort by Price (Highest First)"
+msgstr ""
+
+#: ../template-property-search.php:61
+msgid "Sort by Price (Lowest First)"
+msgstr ""
+
+#: ../template-property-search.php:62
+msgid "Random"
+msgstr ""
+
+#: ../template-property-search.php:110
+#: ../lib/functions/function-property-search.php:429
+msgid "No Properties Match Your Search Criteria."
+msgstr ""
+
+#: ../template-property-submit-listing.php:83
+#: ../lib/inc/template/login-bar-header.php:112
+#: ../lib/inc/template/login-bar-header.php:113
+msgid "My Properties"
+msgstr ""
+
+#: ../template-property-submit-listing.php:121
+msgid "You haven't submitted any properties yet."
+msgstr ""
+
+#: ../template-property-submit-listing.php:128
+msgid "You have to be logged-in to view your submitted properties."
+msgstr ""
+
+#: ../template-property-submit-listing.php:130
+#: ../lib/inc/template/login-modal.php:29
+msgid "Username / Email"
+msgstr ""
+
+#: ../template-property-submit.php:86
+msgid "Property update successful."
+msgstr ""
+
+#: ../template-property-submit.php:87
+#: ../lib/inc/custom-post-type-property.php:14
+msgid "View Property"
+msgstr ""
+
+#: ../template-property-submit.php:90
+msgid "Property has been published."
+msgstr ""
+
+#: ../template-property-submit.php:96
+msgid "Property update failed. Please try again."
+msgstr ""
+
+#: ../template-property-submit.php:166
+msgid "Property submit failed. Please try again."
+msgstr ""
+
+#: ../template-property-submit.php:180
+msgid "New Property Submit"
+msgstr ""
+
+#: ../template-property-submit.php:182
+msgid "A new property has been submitted."
+msgstr ""
+
+#: ../template-property-submit.php:451
+msgid "Featured image dimension of"
+msgstr ""
+
+#: ../template-property-submit.php:451
+msgid "is too small"
+msgstr ""
+
+#: ../template-property-submit.php:451
+msgid "Min. dimension is 600x300."
+msgstr ""
+
+#: ../template-property-submit.php:455 ../template-property-submit.php:510
+#: ../template-property-submit.php:567 ../template-user-profile.php:18
+msgid "Invalid file type:"
+msgstr ""
+
+#: ../template-property-submit.php:455 ../template-property-submit.php:510
+#: ../template-property-submit.php:567 ../template-user-profile.php:18
+msgid "Supported file types: gif, jpg, jpeg, png."
+msgstr ""
+
+#: ../template-property-submit.php:460 ../template-property-submit.php:515
+#: ../template-property-submit.php:572 ../template-user-profile.php:23
+msgid "File is too large. Max. upload file size is 5 MB."
+msgstr ""
+
+#: ../template-property-submit.php:478
+msgid "Upload failed. Please submit again."
+msgstr ""
+
+#: ../template-property-submit.php:660
+msgid "Publishing fee"
+msgstr ""
+
+#: ../template-property-submit.php:662
+msgid "\"Featured\" upgrade"
+msgstr ""
+
+#: ../template-property-submit.php:670
+msgid "Property will be published automatically after payment completion."
+msgstr ""
+
+#: ../template-property-submit.php:673
+msgid "Property will be published manually after payment completion."
+msgstr ""
+
+#: ../template-property-submit.php:685
+msgid "Last edited:"
+msgstr ""
+
+#: ../template-property-submit.php:687
+msgid "Published:"
+msgstr ""
+
+#: ../template-property-submit.php:689
+msgid "Post ID:"
+msgstr ""
+
+#: ../template-property-submit.php:699 ../template-property-submit.php:1279
+#: ../template-property-submit.php:1334
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: ../template-property-submit.php:700
+msgid "Please enter a property title."
+msgstr ""
+
+#: ../template-property-submit.php:704 ../template-property-submit.php:1315
+#: ../template-property-submit.php:1369
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../template-property-submit.php:705
+msgid "Please enter a property description."
+msgstr ""
+
+#: ../template-property-submit.php:709
+#: ../lib/redux/realty/realty-config.php:973
+msgid "Custom Property ID"
+msgstr ""
+
+#: ../template-property-submit.php:709
+msgid "Default: post ID"
+msgstr ""
+
+#: ../template-property-submit.php:710
+msgid "Please enter a property ID."
+msgstr ""
+
+#: ../template-property-submit.php:711 ../template-property-submit.php:916
+msgid "has already been taken. Please try another ID."
+msgstr ""
+
+#: ../template-property-submit.php:719 ../lib/compare-properties.php:171
+#: ../lib/inc/custom-post-type-property.php:163
+#: ../lib/meta-box/demo/map.php:16 ../lib/redux/realty/realty-config.php:702
+#: ../lib/redux/realty/realty-config.php:1098
+msgid "Location"
+msgstr ""
+
+#: ../template-property-submit.php:720
+msgid "Please select the property location."
+msgstr ""
+
+#: ../template-property-submit.php:720
+msgid "Choose a location"
+msgstr ""
+
+#: ../template-property-submit.php:780 ../template-property-submit.php:822
+#: ../template-property-submit.php:903
+#: ../lib/redux/realty/realty-config.php:1340
+msgid "Other"
+msgstr ""
+
+#: ../template-property-submit.php:782
+msgid "Enter New Property Location"
+msgstr ""
+
+#: ../template-property-submit.php:786 ../lib/compare-properties.php:170
+#: ../lib/inc/custom-post-type-property.php:164
+#: ../lib/inc/template/property-item.php:172
+#: ../lib/inc/template/property-item.php:177
+#: ../lib/redux/realty/realty-config.php:704
+#: ../lib/tgm/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: ../template-property-submit.php:787
+msgid "Please select the property status."
+msgstr ""
+
+#: ../template-property-submit.php:787
+msgid "Choose a status"
+msgstr ""
+
+#: ../template-property-submit.php:824
+msgid "Enter New Property Status"
+msgstr ""
+
+#: ../template-property-submit.php:831
+msgid "Video Provider"
+msgstr ""
+
+#: ../template-property-submit.php:832 ../template-property-submit.php:921
+msgid "Optional"
+msgstr ""
+
+#: ../template-property-submit.php:834 ../lib/meta-box.php:56
+msgid "YouTube"
+msgstr ""
+
+#: ../template-property-submit.php:835 ../lib/meta-box.php:57
+msgid "Vimeo"
+msgstr ""
+
+#: ../template-property-submit.php:843 ../template-property-submit.php:1284
+msgid "in"
+msgstr ""
+
+#: ../template-property-submit.php:843
+msgid ""
+"Enter &quot;-1&quot; for &quot;Price Upon Request&quot;. Leave empty to show "
+"no price at all."
+msgstr ""
+
+#: ../template-property-submit.php:844
+msgid "Please enter a property price."
+msgstr ""
+
+#: ../template-property-submit.php:849
+msgid "Please enter a property size."
+msgstr ""
+
+#: ../template-property-submit.php:854
+msgid "Please enter a number of rooms."
+msgstr ""
+
+#: ../template-property-submit.php:859
+msgid "Please enter a number of bathrooms."
+msgstr ""
+
+#: ../template-property-submit.php:867 ../lib/compare-properties.php:169
+#: ../lib/meta-box.php:343 ../lib/inc/custom-post-type-property.php:165
+#: ../lib/redux/realty/realty-config.php:703
+#: ../lib/tgm/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: ../template-property-submit.php:868
+msgid "Please select the property type."
+msgstr ""
+
+#: ../template-property-submit.php:868
+msgid "Choose a type"
+msgstr ""
+
+#: ../template-property-submit.php:905
+msgid "Enter New Property Type"
+msgstr ""
+
+#: ../template-property-submit.php:909
+msgid "Status Update"
+msgstr ""
+
+#: ../template-property-submit.php:910
+msgid "e.g. &quot;Sold&quot;"
+msgstr ""
+
+#: ../template-property-submit.php:914
+msgid "Video ID"
+msgstr ""
+
+#: ../template-property-submit.php:920
+#: ../lib/redux/realty/realty-config.php:1783
+msgid "Price Suffix"
+msgstr ""
+
+#: ../template-property-submit.php:935 ../lib/meta-box.php:157
+msgid "Size Unit"
+msgstr ""
+
+#: ../template-property-submit.php:950
+msgid "Please enter a number of bedrooms."
+msgstr ""
+
+#: ../template-property-submit.php:955
+msgid "Please enter a number of garages."
+msgstr ""
+
+#: ../template-property-submit.php:961
+msgid "Available From:"
+msgstr ""
+
+#: ../template-property-submit.php:970
+#: ../lib/inc/custom-post-type-property.php:166
+#: ../lib/redux/realty/realty-config.php:1090
+msgid "Features"
+msgstr ""
+
+#: ../template-property-submit.php:1013 ../lib/meta-box.php:81
+#: ../lib/inc/custom-post-type-property.php:162
+#: ../lib/meta-box/demo/map.php:10 ../lib/redux/realty/realty-config.php:2026
+msgid "Address"
+msgstr ""
+
+#: ../template-property-submit.php:1014
+msgid "Please enter a property address."
+msgstr ""
+
+#: ../template-property-submit.php:1018
+msgid "Once Address Entered Above, Drag & Drop Map Marker To Exact Location."
+msgstr ""
+
+#: ../template-property-submit.php:1031
+msgid "Set property \"Featured\""
+msgstr ""
+
+#: ../template-property-submit.php:1033
+msgid "for an additional"
+msgstr ""
+
+#: ../template-property-submit.php:1042
+msgid "Featured Image"
+msgstr ""
+
+#: ../template-property-submit.php:1042
+msgid "Min. dimension 600x300px. Max. file size 5MB."
+msgstr ""
+
+#: ../template-property-submit.php:1050
+msgid "No Image Selected"
+msgstr ""
+
+#: ../template-property-submit.php:1054 ../template-property-submit.php:1074
+msgid "Select Files.."
+msgstr ""
+
+#: ../template-property-submit.php:1054
+msgid "Please select a featured image."
+msgstr ""
+
+#: ../template-property-submit.php:1058 ../lib/meta-box.php:266
+msgid "Gallery Images"
+msgstr ""
+
+#: ../template-property-submit.php:1073
+msgid "Hold down \"Ctrl\" or \"Cmd\" to select multiple images."
+msgstr ""
+
+#: ../template-property-submit.php:1078 ../lib/meta-box.php:200
+msgid "Contact Information"
+msgstr ""
+
+#: ../template-property-submit.php:1084
+msgid "Show Profile Information & Contact Form."
+msgstr ""
+
+#: ../template-property-submit.php:1086
+msgid "Show Contact Form Only."
+msgstr ""
+
+#: ../template-property-submit.php:1088
+msgid "None."
+msgstr ""
+
+#: ../template-property-submit.php:1093
+msgid "Assign Property To Agent"
+msgstr ""
+
+#: ../template-property-submit.php:1097 ../lib/meta-box.php:7
+#: ../lib/meta-box.php:55 ../lib/meta-box.php:206
+#: ../lib/redux/realty/realty-config.php:571
+#: ../lib/redux/realty/realty-config.php:999
+msgid "None"
+msgstr ""
+
+#: ../template-property-submit.php:1109 ../lib/meta-box.php:218
+msgid "Internal Note"
+msgstr ""
+
+#: ../template-property-submit.php:1115
+msgid "Message To Reviewer"
+msgstr ""
+
+#: ../template-property-submit.php:1309 ../template-property-submit.php:1364
+msgid "Image"
+msgstr ""
+
+#: ../template-property-submit.php:1309 ../template-property-submit.php:1364
+#: ../lib/meta-box.php:508 ../lib/meta-box.php:564
+#: ../lib/redux/realty/realty-config.php:1279
+#: ../lib/redux/realty/realty-config.php:1332
+msgid "required"
+msgstr ""
+
+#: ../template-property-submit.php:1311
+msgid "Select File.."
+msgstr ""
+
+#: ../template-property-submit.php:1320 ../template-property-submit.php:1374
+#: ../lib/meta-box.php:520 ../lib/meta-box.php:576
+msgid "Delete Plan"
+msgstr ""
+
+#: ../template-property-submit.php:1385 ../lib/meta-box.php:589
+msgid "Add New Plan"
+msgstr ""
+
+#: ../template-property-submit.php:1385
+msgid "<a class=\"add-floor-plan btn btn-default\">"
+msgstr ""
+
+#: ../template-property-submit.php:1394
+msgid "Update Property"
+msgstr ""
+
+#: ../template-property-submit.php:1412
+msgid "This property doesn't belong to you."
+msgstr ""
+
+#: ../template-property-submit.php:1417
+msgid "Property submit is not allowed."
+msgstr ""
+
+#: ../template-property-submit.php:1423
+msgid "You have to be logged-in to submit properties."
+msgstr ""
+
+#: ../template-user-favorites.php:97 ../template-user-favorites.php:100
+msgid "You haven't added any favorites."
+msgstr ""
+
+#: ../template-user-favorites.php:108
+msgid "To view your favorites you have to login or create an account."
+msgstr ""
+
+#: ../template-user-profile.php:114
+msgid "Profile successfully updated."
+msgstr ""
+
+#: ../template-user-profile.php:127
+msgid "(JPEG, JPG, PNG, GIF. Max: 5 MB)"
+msgstr ""
+
+#: ../template-user-profile.php:168 ../lib/inc/template/login-modal.php:41
+#: ../lib/redux/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../template-user-profile.php:168
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: ../template-user-profile.php:173
+msgid "About"
+msgstr ""
+
+#: ../template-user-profile.php:183
+msgid "First Name"
+msgstr ""
+
+#: ../template-user-profile.php:188
+msgid "Last Name"
+msgstr ""
+
+#: ../template-user-profile.php:213 ../lib/redux/realty/realty-config.php:412
+msgid "Email Address"
+msgstr ""
+
+#: ../template-user-profile.php:213
+msgid "Send property contact form messages to this address."
+msgstr ""
+
+#: ../template-user-profile.php:218 ../lib/meta-box/demo/demo.php:116
+#: ../lib/redux/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: ../template-user-profile.php:222 ../lib/redux/ReduxCore/framework.php:3056
+#: ../lib/redux/ReduxCore/framework.php:3366
+msgid "Save Changes"
+msgstr ""
+
+#: ../template-user-profile.php:233
+msgid "Login to view and edit your profile."
+msgstr ""
+
+#: ../lib/add-to-favorites.php:55 ../lib/add-to-favorites.php:109
+#: ../lib/add-to-favorites.php:126
+msgid "Remove From Favorites"
+msgstr ""
+
+#: ../lib/add-to-favorites.php:59 ../lib/add-to-favorites.php:64
+msgid "Add To Favorites"
+msgstr ""
+
+#: ../lib/add-to-favorites.php:100 ../lib/add-to-favorites.php:153
+msgid ""
+"Local storage is not supported by your browser. Please disable \"Private Mode"
+"\", or upgrade to a modern browser."
+msgstr ""
+
+#: ../lib/compare-properties.php:154
+#: ../lib/meta-box/inc/fields/file-input.php:42
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:321
+#: ../lib/redux/ReduxCore/inc/fields/media/field_media.php:205
+#: ../lib/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ../lib/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ../lib/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../lib/compare-properties.php:177
+#: ../lib/inc/custom-post-type-property.php:128
+#: ../lib/inc/custom-post-type-property.php:129
+#: ../lib/redux/realty/realty-config.php:1450
+msgid "Property Features"
+msgstr ""
+
+#: ../lib/meta-box.php:18
+msgid "Property Settings"
+msgstr ""
+
+#: ../lib/meta-box.php:25
+msgid "Property Layout"
+msgstr ""
+
+#: ../lib/meta-box.php:27
+msgid "Choose Property Layout."
+msgstr ""
+
+#: ../lib/meta-box.php:30
+msgid "Theme Option Setting"
+msgstr ""
+
+#: ../lib/meta-box.php:31
+msgid "Full Width"
+msgstr ""
+
+#: ../lib/meta-box.php:32
+msgid "Boxed"
+msgstr ""
+
+#: ../lib/meta-box.php:37
+msgid "Property Status Update"
+msgstr ""
+
+#: ../lib/meta-box.php:39
+msgid "E.g. \"Sold\", \"Rented Out\" etc."
+msgstr ""
+
+#: ../lib/meta-box.php:50
+msgid "Property Video Provider"
+msgstr ""
+
+#: ../lib/meta-box.php:61
+msgid "Property Video ID"
+msgstr ""
+
+#: ../lib/meta-box.php:68
+msgid "Property Images"
+msgstr ""
+
+#: ../lib/meta-box.php:89
+msgid "Google Maps"
+msgstr ""
+
+#: ../lib/meta-box.php:90
+msgid ""
+"Enter Property Address Above, Then Click \"Find Address\" To Search For "
+"Exact Location On The Map. Drag & Drop Map Marker If Necessary."
+msgstr ""
+
+#: ../lib/meta-box.php:102
+msgid "(YYYYMMDD)"
+msgstr ""
+
+#: ../lib/meta-box.php:103
+msgid "yymmdd"
+msgstr ""
+
+#: ../lib/meta-box.php:125
+msgid "Property Price Prefix"
+msgstr ""
+
+#: ../lib/meta-box.php:127
+msgid "Appears Before Property Price (i.e. \"from\")"
+msgstr ""
+
+#: ../lib/meta-box.php:132
+msgid "Property Price"
+msgstr ""
+
+#: ../lib/meta-box.php:134
+msgid "Digits Only. Enter \"-1\" for \"Price Upon Request\""
+msgstr ""
+
+#: ../lib/meta-box.php:136
+msgid "1000"
+msgstr ""
+
+#: ../lib/meta-box.php:141
+msgid "Property Price Suffix"
+msgstr ""
+
+#: ../lib/meta-box.php:143
+msgid "Appears After Property Price (i.e. \"per month\")"
+msgstr ""
+
+#: ../lib/meta-box.php:150
+msgid "Property Size (Digits Only, i.e. \"250\")"
+msgstr ""
+
+#: ../lib/meta-box.php:153
+msgid "250"
+msgstr ""
+
+#: ../lib/meta-box.php:159
+msgid "Unit Appears After Property Size (i.e. \"sq ft\")"
+msgstr ""
+
+#: ../lib/meta-box.php:161 ../lib/redux/realty/realty-config.php:1514
+msgid "sq ft"
+msgstr ""
+
+#: ../lib/meta-box.php:204
+msgid "Profile Information & Contact Form"
+msgstr ""
+
+#: ../lib/meta-box.php:205
+msgid "Contact Form Only"
+msgstr ""
+
+#: ../lib/meta-box.php:211
+msgid "Assign Agent"
+msgstr ""
+
+#: ../lib/meta-box.php:213
+msgid "Selected agent will be able to edit this property."
+msgstr ""
+
+#: ../lib/meta-box.php:220
+msgid "Note for internal use. Won't appear on the frontend."
+msgstr ""
+
+#: ../lib/meta-box.php:225 ../lib/redux/realty/realty-config.php:1106
+msgid "Attachments"
+msgstr ""
+
+#: ../lib/meta-box.php:239 ../lib/inc/custom-post-type-testimonial.php:8
+#: ../lib/inc/custom-post-type-testimonial.php:46
+msgid "Testimonial"
+msgstr ""
+
+#: ../lib/meta-box.php:246
+msgid "Testimonial Text"
+msgstr ""
+
+#: ../lib/meta-box.php:259
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../lib/meta-box.php:279
+msgid "Video Settings"
+msgstr ""
+
+#: ../lib/meta-box.php:300
+msgid "Page Settings"
+msgstr ""
+
+#: ../lib/meta-box.php:307
+msgid "Hide Sidebar"
+msgstr ""
+
+#: ../lib/meta-box.php:314
+msgid "Intro Fullscreen Background Slideshow Images"
+msgstr ""
+
+#: ../lib/meta-box.php:336
+msgid "Slideshow Settings"
+msgstr ""
+
+#: ../lib/meta-box.php:348 ../lib/widgets/widget-featured-properties.php:13
+#: ../lib/widgets/widget-featured-properties.php:26
+msgid "Featured Properties"
+msgstr ""
+
+#: ../lib/meta-box.php:349
+msgid "Latest Three Properties"
+msgstr ""
+
+#: ../lib/meta-box.php:350
+msgid "Selected Properties (choose below)"
+msgstr ""
+
+#: ../lib/meta-box.php:355
+msgid "Selected Properties"
+msgstr ""
+
+#: ../lib/meta-box.php:370
+msgid "Setup in Theme Options Panel"
+msgstr ""
+
+#: ../lib/meta-box.php:373
+msgid "No Search"
+msgstr ""
+
+#: ../lib/meta-box.php:375
+msgid "Property Search Mini"
+msgstr ""
+
+#: ../lib/meta-box.php:385
+msgid "Property Map Settings"
+msgstr ""
+
+#: ../lib/meta-box.php:392 ../lib/inc/custom-post-type-property.php:47
+#: ../lib/inc/custom-post-type-property.php:48
+msgid "Property Location"
+msgstr ""
+
+#: ../lib/meta-box.php:403 ../lib/inc/custom-post-type-property.php:74
+#: ../lib/inc/custom-post-type-property.php:75
+msgid "Property Status"
+msgstr ""
+
+#: ../lib/meta-box.php:414 ../lib/inc/custom-post-type-property.php:101
+#: ../lib/inc/custom-post-type-property.php:102
+msgid "Property Type"
+msgstr ""
+
+#: ../lib/meta-box.php:425
+msgid "Custom Zoom Level"
+msgstr ""
+
+#: ../lib/meta-box.php:427
+msgid ""
+"Enter only, if your properties are located very closeby, and you would like "
+"to zoom closer. Zoom targets oldest property."
+msgstr ""
+
+#: ../lib/meta-box.php:445
+msgid "Property Floor Plans"
+msgstr ""
+
+#: ../lib/meta-box.php:478 ../lib/meta-box.php:534
+msgid "Floor Plan Title"
+msgstr ""
+
+#: ../lib/meta-box.php:483 ../lib/meta-box.php:539
+msgid "Floor Plan Price"
+msgstr ""
+
+#: ../lib/meta-box.php:488 ../lib/meta-box.php:544
+msgid "Floor Plan Size"
+msgstr ""
+
+#: ../lib/meta-box.php:493 ../lib/meta-box.php:549
+msgid "Floor Plan Rooms"
+msgstr ""
+
+#: ../lib/meta-box.php:498 ../lib/meta-box.php:554
+msgid "Floor Plan Bedrooms"
+msgstr ""
+
+#: ../lib/meta-box.php:503 ../lib/meta-box.php:559
+msgid "Floor Plan Bathrooms"
+msgstr ""
+
+#: ../lib/meta-box.php:508 ../lib/meta-box.php:564
+msgid "Floor Plan Image"
+msgstr ""
+
+#: ../lib/meta-box.php:511 ../lib/meta-box.php:567
+msgid "Upload Image"
+msgstr ""
+
+#: ../lib/meta-box.php:515 ../lib/meta-box.php:571
+msgid "Floor Plan Description"
+msgstr ""
+
+#: ../lib/meta-box.php:589
+msgid "<a class=\"add-floor-plan button button-primary\">"
+msgstr ""
+
+#: ../lib/shortcodes.php:332 ../lib/shortcodes.php:572
+#: ../lib/inc/template/google-map-multiple-properties.php:283
+#: ../lib/inc/template/google-map-multiple-properties.php:294
+msgid "No Properties Found."
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:8
+msgid "Properties"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:10
+#: ../lib/inc/custom-post-type-testimonial.php:9
+msgid "Add New"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:11
+msgid "Add New Property"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:12
+#: ../lib/inc/template/property-item.php:200
+msgid "Edit Property"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:13
+msgid "New Property"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:15
+msgid "Search Property"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:16
+msgid "No Property found."
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:17
+msgid "No Property found in Trash."
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:32
+msgid "property"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:49
+msgid "Search Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:50
+msgid "Popular Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:51
+msgid "All Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:52
+msgid "Edit Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:53
+msgid "Update Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:54
+msgid "Add New Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:55
+msgid "New Property Location Name"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:56
+msgid "Separate Property Location With Commas"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:57
+msgid "Add or Remove Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:58
+msgid "Choose From Most Used Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:59
+msgid "Parent Property Location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:63
+msgid "property-location"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:76
+msgid "Search Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:77
+msgid "Popular Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:78
+msgid "All Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:79
+msgid "Edit Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:80
+msgid "Update Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:81
+msgid "Add New Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:82
+msgid "New Property Status Name"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:83
+msgid "Separate Property Status With Commas"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:84
+msgid "Add or Remove Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:85
+msgid "Choose From Most Used Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:86
+msgid "Parent Property Status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:90
+msgid "property-status"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:103
+msgid "Search Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:104
+msgid "Popular Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:105
+msgid "All Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:106
+msgid "Edit Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:107
+msgid "Update Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:108
+msgid "Add New Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:109
+msgid "New Property Type Name"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:110
+msgid "Separate Property Type With Commas"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:111
+msgid "Add or Remove Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:112
+msgid "Choose From Most Used Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:113
+msgid "Parent Property Type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:117
+msgid "property-type"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:130
+msgid "Search Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:131
+msgid "Popular Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:132
+msgid "All Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:133
+msgid "Edit Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:134
+msgid "Update Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:135
+msgid "Add New Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:136
+msgid "New Property Features Name"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:137
+msgid "Separate Property Features With Commas"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:138
+msgid "Add or Remove Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:139
+msgid "Choose From Most Used Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:140
+msgid "Parent Property Features"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:144
+msgid "property-feature"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:159
+#: ../lib/inc/custom-post-type-testimonial.php:44
+msgid "Thumbnail"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:160
+msgid "Property Name"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:161
+msgid "Featured"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:168
+msgid "Owner"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:169
+#: ../lib/inc/template/property-item.php:202
+msgid "Published"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:185
+#: ../lib/inc/custom-post-type-property.php:220
+#: ../lib/inc/custom-post-type-testimonial.php:63
+msgid "-"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:190
+#: ../lib/redux/realty/realty-config.php:2010
+msgid "Yes"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:193
+#: ../lib/redux/realty/realty-config.php:2011
+msgid "No"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:202
+msgid "No Address Provided"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-property.php:236
+msgid "Property Payment Details"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:7
+#: ../lib/widgets/widget-testimonials.php:13
+#: ../lib/widgets/widget-testimonials.php:26
+msgid "Testimonials"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:10
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:11
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:12
+msgid "New Testimonial"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:13
+msgid "View Testimonial"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:14
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:15
+msgid "No Testimonial found."
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:16
+msgid "No Testimonial found in Trash."
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:32
+msgid "testimonial"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:45
+msgid "From"
+msgstr ""
+
+#: ../lib/inc/custom-post-type-testimonial.php:47
+#: ../lib/meta-box/demo/date-time-js-options.php:12
+msgid "Date"
+msgstr ""
+
+#: ../lib/inc/template/google-map-single-property.php:253
+msgid "View on Google Maps"
+msgstr ""
+
+#: ../lib/inc/template/login-bar-header.php:51
+#: ../lib/inc/template/login-bar-header.php:52
+#: ../lib/inc/template/login-bar-header.php:85
+#: ../lib/inc/template/login-bar-header.php:86
+msgid "Favorites"
+msgstr ""
+
+#: ../lib/inc/template/login-bar-header.php:58
+#: ../lib/inc/template/login-bar-header.php:95
+#: ../lib/inc/template/login-bar-header.php:96
+msgid "Submit Property"
+msgstr ""
+
+#: ../lib/inc/template/login-bar-header.php:60
+msgid "Login/Register"
+msgstr ""
+
+#: ../lib/inc/template/login-bar-header.php:60
+#: ../lib/inc/template/login-modal.php:12
+msgid "Login"
+msgstr ""
+
+#: ../lib/inc/template/login-bar-header.php:123
+msgid "Logout"
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:14
+#: ../lib/inc/template/login-modal.php:56
+msgid "Register"
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:24
+msgid "You have to be logged in to use this feature."
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:27
+msgid ""
+"Incorrect login details. Please enter your username and password, and submit "
+"again."
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:42
+msgid "Please enter your username."
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:45
+msgid "E-mail"
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:50
+msgid "Please accept our terms and conditions to register."
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:51
+msgid "I hereby agree to the"
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:51
+msgid "terms and conditions"
+msgstr ""
+
+#: ../lib/inc/template/login-modal.php:54
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: ../lib/inc/template/property-comparison.php:9
+msgid "Compare Properties"
+msgstr ""
+
+#: ../lib/inc/template/property-comparison.php:28
+#: ../lib/inc/template/property-item.php:195
+msgid "Compare"
+msgstr ""
+
+#: ../lib/inc/template/property-comparison.php:31
+msgid ""
+"Please create a page that is using page template \"Property Comparison\"."
+msgstr ""
+
+#: ../lib/inc/template/property-comparison.php:35
+msgid "You have reached the maximum of four properties per comparison."
+msgstr ""
+
+#: ../lib/inc/template/property-featured.php:32
+msgid "My Listings"
+msgstr ""
+
+#: ../lib/inc/template/property-item.php:206
+msgid "Paid"
+msgstr ""
+
+#: ../lib/inc/template/property-item.php:208
+#: ../lib/inc/template/property-item.php:213
+#: ../lib/inc/template/property-item.php:218
+msgid "Delete Property"
+msgstr ""
+
+#: ../lib/inc/template/property-item.php:211
+msgid "Draft"
+msgstr ""
+
+#: ../lib/inc/template/property-item.php:216
+msgid "Pending"
+msgstr ""
+
+#: ../lib/inc/template/search-form-mini.php:4
+#: ../lib/inc/template/search-form.php:4
+msgid "Please create a page that is using page template \"Property Search\"."
+msgstr ""
+
+#: ../lib/inc/template/search-form-mini.php:83
+#: ../lib/inc/template/search-form.php:83
+msgid "Any Location"
+msgstr ""
+
+#: ../lib/inc/template/search-form-mini.php:142
+#: ../lib/inc/template/search-form.php:142
+msgid "Any Status"
+msgstr ""
+
+#: ../lib/inc/template/search-form-mini.php:201
+#: ../lib/inc/template/search-form.php:201
+msgid "Any Type"
+msgstr ""
+
+#: ../lib/inc/template/search-form-mini.php:284
+#: ../lib/inc/template/search-form.php:284
+msgid "to"
+msgstr ""
+
+#: ../lib/inc/template/search-form-mini.php:434
+msgid "Please setup your property search mini in your theme options panel."
+msgstr ""
+
+#: ../lib/inc/template/search-form.php:434
+msgid "Please setup your property search in your theme options panel."
+msgstr ""
+
+#: ../lib/inc/template/search-form.php:448
+msgid "Show more search options"
+msgstr ""
+
+#: ../lib/inc/template/search-form.php:449
+msgid "Hide additional search options"
+msgstr ""
+
+#: ../lib/inc/template/search-form.php:465
+msgid "Property features:"
+msgstr ""
+
+#: ../lib/meta-box/demo/all-custom-post-types.php:15
+msgid "Personal Information"
+msgstr ""
+
+#: ../lib/meta-box/demo/all-custom-post-types.php:20
+msgid "Full name"
+msgstr ""
+
+#: ../lib/meta-box/demo/better-include.php:16
+#: ../lib/meta-box/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../lib/meta-box/demo/better-include.php:19
+#: ../lib/meta-box/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: ../lib/meta-box/demo/date-time-js-options.php:8
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../lib/meta-box/demo/date-time-js-options.php:18
+#: ../lib/meta-box/demo/demo.php:193
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../lib/meta-box/demo/date-time-js-options.php:20
+msgid "Select Date"
+msgstr ""
+
+#: ../lib/meta-box/demo/date-time-js-options.php:21
+#: ../lib/meta-box/demo/demo.php:194
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../lib/meta-box/demo/date-time-js-options.php:27
+msgid "Datetime"
+msgstr ""
+
+#: ../lib/meta-box/demo/date-time-js-options.php:38
+msgid "Time"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:42
+msgid "Standard Fields"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:61
+msgid "Text"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:65
+msgid "Text description"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:68
+msgid "Default text value"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:74
+msgid "Checkbox"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:82
+msgid "Radio"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:88 ../lib/meta-box/demo/demo.php:99
+#: ../lib/meta-box/demo/demo.php:242 ../lib/meta-box/demo/demo.php:253
+#: ../lib/meta-box/demo/demo.php:302
+msgid "Label1"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:89 ../lib/meta-box/demo/demo.php:100
+#: ../lib/meta-box/demo/demo.php:243 ../lib/meta-box/demo/demo.php:254
+#: ../lib/meta-box/demo/demo.php:303
+msgid "Label2"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:94 ../lib/meta-box/demo/demo.php:297
+#: ../lib/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:105 ../lib/meta-box/demo/demo.php:308
+#: ../lib/meta-box/demo/demo.php:333
+msgid "Select an Item"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:112
+msgid "Hidden value"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:122
+msgid "Textarea"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:123
+msgid "Textarea description"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:140
+msgid "Password is required"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:141
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:149
+msgid "Advanced Fields"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:155
+msgid "Heading"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:157
+msgid "Optional description for this heading"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:161 ../lib/meta-box/demo/slider.php:9
+msgid "Slider"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:167 ../lib/meta-box/demo/slider.php:15
+msgid " USD"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:178
+msgid "Number"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:187
+msgid "Date picker"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:202
+msgid "Datetime picker"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:216
+msgid "Time picker"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:231
+msgid "Color picker"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:237
+msgid "Checkbox list"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:248
+msgid "Autocomplete"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:265
+msgid "Email description"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:271
+msgid "Range"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:273
+msgid "Range description"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:282
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:284
+msgid "URL description"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:290
+msgid "oEmbed"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:292
+msgid "oEmbed description"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:312
+msgid "Taxonomy"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:326
+msgid "Posts (Pages)"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:342
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:347
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:363 ../lib/meta-box/demo/force-delete.php:12
+msgid "File Upload"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:369
+msgid "File Advanced Upload"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:377 ../lib/meta-box/demo/force-delete.php:19
+msgid "Image Upload"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:383 ../lib/meta-box/demo/force-delete.php:25
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:389 ../lib/meta-box/demo/force-delete.php:32
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: ../lib/meta-box/demo/demo.php:396
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: ../lib/meta-box/demo/force-delete.php:8
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../lib/meta-box/demo/image-select.php:6
+msgid "Image Select Demo"
+msgstr ""
+
+#: ../lib/meta-box/demo/image-select.php:10
+msgid "Layout"
+msgstr ""
+
+#: ../lib/meta-box/demo/map.php:6
+msgid "Google Map"
+msgstr ""
+
+#: ../lib/meta-box/demo/map.php:12
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../lib/meta-box/demo/oembed.php:6
+msgid "oEmbed Demo"
+msgstr ""
+
+#: ../lib/meta-box/demo/oembed.php:10
+msgid "oEmbed(s)"
+msgstr ""
+
+#: ../lib/meta-box/demo/slider.php:6
+msgid "Slider Demo"
+msgstr ""
+
+#: ../lib/meta-box/demo/url.php:6
+msgid "URL Demo"
+msgstr ""
+
+#: ../lib/meta-box/demo/url.php:10
+msgid "URL(s)"
+msgstr ""
+
+#: ../lib/meta-box/inc/common.php:53 ../lib/redux/class.redux-plugin.php:410
+#: ../lib/redux/realty/realty-config.php:2073
+#: ../lib/redux/realty/realty-config.php:2219
+#: ../lib/redux/sample/sample-config.php:1367
+#: ../lib/redux/sample/sample-config.php:1624
+#: ../lib/redux/sample/sample-config.php:1770
+msgid "Documentation"
+msgstr ""
+
+#: ../lib/meta-box/inc/common.php:54
+#: ../lib/redux/realty/realty-config.php:2231
+#: ../lib/redux/sample/sample-config.php:1782
+msgid "Extensions"
+msgstr ""
+
+#: ../lib/meta-box/inc/field.php:225
+msgid "+"
+msgstr ""
+
+#: ../lib/meta-box/inc/field.php:235
+msgid "&#8211;"
+msgstr ""
+
+#: ../lib/meta-box/inc/meta-box.php:245
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/autocomplete.php:18
+#: ../lib/meta-box/inc/fields/autocomplete.php:72
+#: ../lib/meta-box/inc/fields/file-advanced.php:103
+#: ../lib/meta-box/inc/fields/file.php:168
+#: ../lib/meta-box/inc/fields/image-advanced.php:108
+#: ../lib/meta-box/inc/fields/image.php:136
+#: ../lib/redux/ReduxCore/extensions/repeater/repeater/field_repeater.php:176
+#: ../lib/redux/ReduxCore/extensions/repeater/repeater/field_repeater.php:219
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:23
+#: ../lib/meta-box/inc/fields/plupload-image.php:107
+msgid "Select Files"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:66
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file-advanced.php:104
+#: ../lib/meta-box/inc/fields/file.php:169
+#: ../lib/meta-box/inc/fields/image-advanced.php:109
+#: ../lib/meta-box/inc/fields/image.php:137
+msgid "Edit"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file.php:111
+msgid "Upload Files"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/file.php:112
+msgid "+ Add new file"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/image-advanced.php:23
+msgid "Select Images"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/image-advanced.php:71
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/image.php:70
+#: ../lib/meta-box/inc/fields/thickbox-image.php:34
+msgid "Upload Images"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/image.php:71
+msgid "+ Add new image"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/oembed.php:55
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:105
+msgid "Drop images here"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:106
+msgid "or"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/plupload-image.php:182
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/post.php:66
+#: ../lib/meta-box/inc/fields/taxonomy.php:40
+#: ../lib/meta-box/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../lib/meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ../lib/redux/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../lib/redux/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../lib/redux/class.redux-plugin.php:407
+msgid "Repo"
+msgstr ""
+
+#: ../lib/redux/class.redux-plugin.php:408
+msgid "Generator"
+msgstr ""
+
+#: ../lib/redux/class.redux-plugin.php:409
+msgid "Issues"
+msgstr ""
+
+#: ../lib/redux/class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: ../lib/redux/class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:55
+#: ../lib/redux/sample/barebones-config.php:55
+#: ../lib/redux/sample/sample-config.php:239
+msgid "Home Settings"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:56
+#: ../lib/redux/sample/barebones-config.php:56
+#: ../lib/redux/sample/sample-config.php:1564
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement. For extra details look at "
+"our <a href=\"http://docs.reduxframework.com/core/advanced/wpml-integration/"
+"\" target=\"_blank\">WPML Implementation</a> documentation."
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:64
+#: ../lib/redux/sample/barebones-config.php:64
+msgid "Example Text"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:67
+#: ../lib/redux/sample/barebones-config.php:67
+msgid "Example description."
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:68
+#: ../lib/redux/sample/barebones-config.php:68
+msgid "Example subtitle."
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:78
+#: ../lib/redux/sample/barebones-config.php:78
+#: ../lib/redux/sample/sample-config.php:1563
+msgid "WPML Example"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:79
+#: ../lib/redux/sample/barebones-config.php:79
+msgid ""
+"These fields can be fully translated by WPML (WordPress Multi-Language). "
+"This serves as an example for you to implement."
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:86
+#: ../lib/redux/sample/barebones-config.php:86
+#: ../lib/redux/sample/sample-config.php:1571
+msgid "WPML Text"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:87
+#: ../lib/redux/sample/barebones-config.php:87
+#: ../lib/redux/sample/sample-config.php:1572
+msgid "This string can be translated via WPML."
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:92
+#: ../lib/redux/sample/barebones-config.php:92
+#: ../lib/redux/sample/sample-config.php:1577
+msgid "WPML Multi Checkbox"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:93
+#: ../lib/redux/sample/barebones-config.php:93
+#: ../lib/redux/sample/sample-config.php:1578
+msgid "You can literally translate the values via key."
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:110
+#: ../lib/redux/realty/realty-config.php:2084
+#: ../lib/redux/sample/barebones-config.php:110
+#: ../lib/redux/sample/sample-config.php:1635
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:111
+#: ../lib/redux/realty/barebones-config.php:117
+#: ../lib/redux/realty/realty-config.php:2085
+#: ../lib/redux/realty/realty-config.php:2091
+#: ../lib/redux/sample/barebones-config.php:111
+#: ../lib/redux/sample/barebones-config.php:117
+#: ../lib/redux/sample/sample-config.php:1636
+#: ../lib/redux/sample/sample-config.php:1642
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:116
+#: ../lib/redux/realty/realty-config.php:2090
+#: ../lib/redux/sample/barebones-config.php:116
+#: ../lib/redux/sample/sample-config.php:1641
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:121
+#: ../lib/redux/realty/realty-config.php:2095
+#: ../lib/redux/sample/barebones-config.php:121
+#: ../lib/redux/sample/sample-config.php:1646
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:144
+#: ../lib/redux/realty/barebones-config.php:145
+#: ../lib/redux/sample/barebones-config.php:144
+#: ../lib/redux/sample/barebones-config.php:145
+#: ../lib/redux/sample/sample-config.php:1669
+#: ../lib/redux/sample/sample-config.php:1670
+msgid "Sample Options"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:262
+#: ../lib/redux/sample/barebones-config.php:262
+#: ../lib/redux/sample/sample-config.php:1815
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:264
+#: ../lib/redux/sample/barebones-config.php:264
+#: ../lib/redux/sample/sample-config.php:1817
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../lib/redux/realty/barebones-config.php:268
+#: ../lib/redux/sample/barebones-config.php:268
+#: ../lib/redux/sample/sample-config.php:1821
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:108
+#: ../lib/redux/sample/sample-config.php:108
+msgid "Section via hook"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:109
+#: ../lib/redux/sample/sample-config.php:109
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:189
+#: ../lib/redux/sample/sample-config.php:189
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:209
+#: ../lib/redux/sample/sample-config.php:209
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:210
+#: ../lib/redux/ReduxCore/inc/welcome.php:169
+#: ../lib/redux/ReduxCore/inc/welcome.php:300
+#: ../lib/redux/ReduxCore/inc/welcome.php:338
+#: ../lib/redux/ReduxCore/inc/welcome.php:476
+#: ../lib/redux/sample/sample-config.php:210
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:211
+#: ../lib/redux/sample/sample-config.php:211
+msgid "Tags"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:216
+#: ../lib/redux/sample/sample-config.php:216
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:216
+#: ../lib/redux/sample/sample-config.php:216
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:240
+msgid "General"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:248
+#: ../lib/redux/sample/sample-config.php:666
+msgid "Body Background Color"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:249
+msgid "Site Background Color (default: #f8f8f8)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:261
+msgid "Accent Color"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:262
+msgid "Site Background Color (default: #70b9a0)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:270
+msgid "Favicon"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:273
+msgid "Upload Square Graphic (Recommendation: 64x64 PNG file)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:279
+#: ../lib/redux/realty/realty-config.php:2016
+msgid "Logo"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:282
+msgid ""
+"Image will be displayed at 50% width & height for Retina-Ready purpose. For "
+"example: 300x60 image shows at 150x30. Upload your logo accordingly."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:288
+msgid "Logo URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:289
+msgid ""
+"Helpful when using intro page as your frontpage. If empty, URL will be your "
+"site address."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:296
+msgid "WordPress Login Page - Logo"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:299
+msgid "Max. dimension: 320x80"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:305
+msgid "WordPress Login Page - Background Color"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:306
+msgid "Default: #f8f8f8"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:315
+msgid "Custom 404 Error Page"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:316
+msgid ""
+"Content of selected page will be shown to visitors who request a non-"
+"existing, so called \"404 Error Page\"."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:317
+msgid "If nothing selected, default 404 Content will be displayed."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:324
+msgid "Custom Styles (CSS)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:325
+msgid "Inline CSS right before closing <strong>&lt;/head&gt;</strong>"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:334
+msgid "Custom Scripts (Google Analytics etc.)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:335
+msgid "Inline scripts right before closing <strong>&lt;/body&gt;</strong>"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:336
+msgid ""
+"Use \"jQuery\" selector, instead of \"$\" shorthand. Do not add any &lt;"
+"script&gt; tags, they are already applied to this code."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:342
+msgid "Enable Right-to-Left Language Support"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:343
+msgid "Required for carousel etc."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:351
+msgid "User Registration: Select \"Terms & Conditions\" Page"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:353
+msgid ""
+"Select the page that contains your \"Terms & Conditions\". When a page has "
+"been selected, users are required to accept your terms and conditions in "
+"order to register."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:362
+msgid "Header"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:369
+msgid "Header Layout"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:373
+msgid "Logo left, contact right, navigation bottom"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:374
+msgid "Logo left, contact top , navigation right"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:382
+msgid "Site Header Background Color"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:383
+msgid "Site Background Color (default: #333333)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:395
+msgid "Site Header Color"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:396
+msgid "Site Header Color (default: #ffffff)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:404
+msgid "Phone Number"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:421
+msgid "Show Sub Menu By Default On Mobile"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:429
+msgid "Disable Login/Register Bar"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:437
+msgid "Hide Property Submit Link"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:438
+msgid "For Non-Logged-In Visitors"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:445
+msgid "Enable Fixed/Scrolling Header"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:453
+msgid "Show Site Tagline"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:454
+msgid "Display \"Settings  > General > Tagline\" underneath logo"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:465
+msgid "Home Slideshow"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:472
+msgid "Slideshow Width"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:474
+msgid ""
+"Applied to page template \"Home - Slideshow\" and \"Property Slideshow\". "
+"Select smaller dimension for faster page load time. Setting doesn't effect "
+"slideshow container width, image still stretches full width."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:476
+#: ../lib/redux/realty/realty-config.php:489
+#: ../lib/redux/realty/realty-config.php:1010
+#: ../lib/redux/realty/realty-config.php:1023
+msgid "Original Image Ratio"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:477
+#: ../lib/redux/realty/realty-config.php:1011
+msgid "1600px"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:478
+#: ../lib/redux/realty/realty-config.php:1012
+msgid "1200px (Default)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:485
+msgid "Slideshow Height"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:487
+msgid ""
+"Applied to page template \"Home - Slideshow\" and \"Property Slideshow\". "
+"When selecting \"Original Image Ratio\" make sure your images have a "
+"sufficient height on mobile devices. If not, please resize them accordingly."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:490
+#: ../lib/redux/realty/realty-config.php:1024
+msgid "Fullscreen (min. 400px for proper display on mobile)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:491
+#: ../lib/redux/realty/realty-config.php:1025
+msgid "Custom Height (min. 400px for proper display on mobile)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:498
+msgid "Custom Slideshow Height"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:499
+#: ../lib/redux/realty/realty-config.php:604
+#: ../lib/redux/realty/realty-config.php:1033
+msgid "Default: 400"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:508
+msgid "Slideshow Speed (in ms)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:509
+msgid "Default: 5000"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:516
+msgid "Home Slideshow Type"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:520
+msgid "Property Slideshow"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:521
+msgid "Custom Content Slideshow"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:528
+msgid "Property Slideshow Type"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:532
+msgid "Show Featured Properties"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:533
+msgid "Show Latest 3 Properties"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:534
+msgid "Show Selected Properties"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:546
+msgid "Property Slides"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:548
+msgid "Select Slideshow Properties. Order Via Drag & Drop."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:554
+msgid "Custom Content Slides"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:555
+msgid "Create Your Custom Home Slideshow."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:558
+#: ../lib/redux/sample/sample-config.php:481
+msgid "This is a title"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:559
+#: ../lib/redux/sample/sample-config.php:482
+msgid "Description Here"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:560
+#: ../lib/redux/sample/sample-config.php:483
+msgid "Give us a link!"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:567
+msgid "Show Property Search Form"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:572
+msgid "Mini Search"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:573
+msgid "Custom Search (configure under \"Property Search\")"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:584
+msgid "Map"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:591
+msgid "Map Height"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:592
+#: ../lib/redux/realty/realty-config.php:1020
+msgid "Min. 400px for proper display on mobile"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:593
+msgid "Will be applied to home map and search results map."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:595
+msgid "Fullscreen"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:596
+msgid "Custom Height"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:603
+msgid "Custom Map Height"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:613
+msgid "Default Map Marker: Property"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:614
+msgid "Default: Green (Dimension: 100x138)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:628
+msgid "Custom Map Marker: Property"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:632
+msgid "Transparent PNG file (Recommended Dimension: 100x138)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:637
+msgid "Default Map Marker: Cluster"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:638
+msgid "Default: Red (Dimension: 100x100)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:652
+msgid "Custom Map Marker: Cluster"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:655
+msgid ""
+"For a non-square graphic, you have to add some Custom CSS to position the "
+"cluster number: #map .cluster > div { line-height: 1 !important; padding-"
+"top: ??px !important; }"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:656
+msgid "Transparent Square PNG file (Recommended Dimension: 100x100)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:661
+msgid "Default Zoom Level"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:662
+msgid "Default: 14"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:663
+msgid "Applies to: Property Single Page."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:673
+msgid "Number of Properties on Map"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:675
+msgid "Select \"-1\" to display all properties on the map."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:685
+msgid "Don't load Google Maps API"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:687
+msgid ""
+"Check this box, if map is not showing. Another plugin might already load the "
+"API, and a duplicate API request produces an error."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:699
+msgid "Default Fields"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:700
+msgid "Search by Keyword"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:706
+msgid "Price Range (set options below)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:712
+#: ../lib/redux/realty/realty-config.php:725
+msgid "Availability / Date"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:718
+msgid "Default Listing Fields"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:734
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:753
+msgid "Property Listing"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:760
+msgid "Property Listing Fields"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:764
+#: ../lib/redux/realty/realty-config.php:904
+#: ../lib/redux/ReduxCore/framework.php:1834
+msgid "Default"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:765
+#: ../lib/redux/realty/realty-config.php:905
+msgid "Custom"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:773
+msgid "Custom Listing Fields"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:774
+#: ../lib/redux/realty/realty-config.php:914
+msgid ""
+"FontAwesome icon classes, e.g. \"fa-expand\", can be found here: <a href="
+"\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\"_blank"
+"\">http://fortawesome.github.io/Font-Awesome/icons/</a>. Do not use Advanced "
+"Custom Fields with a type of \"checkbox\" etc., as only single values are "
+"accepted."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:790
+#: ../lib/redux/realty/realty-config.php:930
+msgid "Field Type"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:795
+#: ../lib/redux/realty/realty-config.php:935
+msgid "FontAwesome Icon Class"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:800
+#: ../lib/redux/realty/realty-config.php:940
+msgid "Label"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:805
+#: ../lib/redux/realty/realty-config.php:945
+msgid "Label Plural"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:810
+#: ../lib/redux/realty/realty-config.php:950
+msgid "Show Tooltip Only"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:819
+msgid "Property Listing Default View"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:820
+msgid "Default: Grid View"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:832
+msgid "Number Of Columns"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:836
+msgid "2 Columns"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:837
+msgid "3 Columns"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:838
+msgid "4 Columns"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:845
+msgid "Number of Properties Per Page"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:847
+msgid "Used For Property Search, Taxonomies etc."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:857
+msgid "\"New\" Property Badge"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:859
+msgid ""
+"Add <i class=\"fa fa-fire\"></i> icon to property, if published within the "
+"last .. days. Set to \"0\" to disable this feature."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:869
+msgid "Disable Property Comparison"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:877
+msgid "Disable Favorites Feature"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:885
+msgid "Allow Non-Logged-In Visitors To Save Favorites Temporary"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:893
+msgid "Property Detail Page"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:900
+msgid "Property Meta Data"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:913
+msgid "Custom Meta Data"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:959
+msgid "Property Meta Data: Hide Print Icon"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:968
+msgid "Property ID Type"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:972
+msgid "Post ID"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:981
+msgid "Default Single Property Layout"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:985
+msgid "Full Width Property Image / Slideshow"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:986
+msgid "Boxed Property Image / Slideshow"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:993
+msgid "Property Lightbox"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:997
+msgid "Magnific Popup"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:998
+msgid "Intense Images"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1006
+msgid "Property Image Width"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1008
+msgid ""
+"Select smaller dimension for faster page load time. Setting doesn't effect "
+"slideshow container width, image still stretches full width."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1019
+msgid "Property Image Height"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1032
+msgid "Custom Property Image Height"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1042
+msgid "Property Image Overflow Handling"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1044
+msgid "Choose to fit or cut off your property images."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1046
+msgid "Fit Image"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1047
+msgid "Cut Off Image"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1055
+msgid "Hide Empty Additional Details"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1063
+msgid "Hide Non Applicable Property Features"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1071
+msgid "Property Title: Details"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1079
+msgid "Property Title: Custom Fields"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1081
+msgid "Won't appear, if no advanced custom fields are created."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1082
+msgid "Additional details"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1087
+msgid "Property Title: Features"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1095
+msgid "Property Title: Map"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1103
+msgid "Property Title: Attachments"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1111
+msgid "Property Title: Floor Plan"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1114
+msgid "Floor Plan"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1119
+msgid "Property Title: Agent"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1127
+msgid "Disable Floor Plans"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1135
+msgid "Display Social Sharing Buttons"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1143
+msgid "Display Agent Information"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1151
+msgid "Display Contact Form"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1159
+msgid "Use Contact Form 7 Instead Of Default Contact Form"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1161
+msgid ""
+"Enter your Contact Form 7 shortcode ID. Make sure CF7 plugin is activated "
+"and that ID entered matches your CF7 form ID. Leave empty to use the default "
+"contact form."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1169
+msgid "Default Contact Email Adress"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1171
+msgid "Used, if agent has no email address, and on his/her profile page."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1182
+msgid "Same location"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1183
+msgid "Same status"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1184
+msgid "Same type"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1185
+msgid "Min. Rooms"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1186
+msgid "Max. Price"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1201
+msgid "Similar Properties Columns"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1213
+msgid "Show Property Comments"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1235
+msgid "Fields: Property Search"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1236
+#: ../lib/tgm/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1236
+msgid ""
+"All search field attributes for every search field. \"Unique Search Parameter"
+"\" has to be all lowercase letters, no spaces. Underscores and dashes "
+"allowed."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1236
+msgid "learn more about the property search"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1258
+#: ../lib/redux/realty/realty-config.php:1311
+msgid "Search Field Type"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1264
+#: ../lib/redux/realty/realty-config.php:1317
+msgid "Equal"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1265
+#: ../lib/redux/realty/realty-config.php:1318
+msgid "Greater than"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1266
+#: ../lib/redux/realty/realty-config.php:1319
+msgid "Less than"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1267
+#: ../lib/redux/realty/realty-config.php:1320
+msgid "Like"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1269
+#: ../lib/redux/realty/realty-config.php:1322
+msgid "Compare As"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1274
+#: ../lib/redux/realty/realty-config.php:1327
+msgid "Search Label"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1279
+#: ../lib/redux/realty/realty-config.php:1332
+msgid "Unique Search Parameter"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1287
+msgid "Fields: Property Search Mini"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1288
+msgid ""
+"The following search setup is used in page template &quot;Property "
+"Slideshow&quot;. Search fields that are also being used in the property "
+"search above, should have identical parameters. Mini search doesn't show "
+"&quot;More&quot; link."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1341
+msgid ""
+"Even if you are not currently using the price range slider, it is "
+"recommended to set default values, instead of leaving them blank."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1346
+msgid "Search Results Page: Disable Map"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1354
+msgid "Price range: Min. price"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1363
+msgid "Price range: Max. price"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1372
+msgid "Price range: Step"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1383
+msgid "Datepicker Language"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1385
+msgid "Select the language of the property search datepicker."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1452
+msgid ""
+"Select all property features you want to add to property search form. Order "
+"via drag & drop."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1463
+msgid "Property Submit"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1469
+msgid "Default Address: Latitude"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1471
+msgid ""
+"e.g.: https://www.google.com/maps/place/London,+UK/@<strong><u>51.5286416</"
+"u></strong>,-0.1015987,11z/"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1478
+msgid "Default Address: Longitude"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1480
+msgid ""
+"e.g.: https://www.google.com/maps/place/London,+UK/@51.5286416,"
+"<strong><u>-0.1015987</u></strong>,11z/"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1487
+msgid "Send Email Notification To"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1488
+msgid "Get notified about property submit via email."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1489
+msgid ""
+"If notification ends up in spam folder, set up <a href=\"https://wordpress."
+"org/plugins/wp-mail-smtp/\" target=\"_blank\">WP Mail SMTP</a> for the email "
+"address entered above."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1496
+msgid "Submit Form: Price Suffix"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1498
+msgid ""
+"Add Price Suffix That Users Can Choose From When Submitting A Property. This "
+"Helps To Prevent User Typos And Keeps All Submitted Property Data Consistent."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1499
+msgid "Add Price Suffix"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1501
+msgid "/day"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1502
+msgid "/week"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1503
+msgid "/month"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1509
+msgid "Submit Form: Size Unit Suffix"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1511
+msgid ""
+"Add Site Unit That Users Can Choose From When Submitting A Property. This "
+"Helps To Prevent User Typos And Keeps All Submitted Property Data Consistent."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1512
+msgid "Add Site Unit"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1515
+msgid "m2"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1521
+msgid "Hide \"Submit Property\" Link"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1529
+msgid "Disable Property Submit For User Role Subscriber"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1531
+msgid "If checked, only agents and admins are able to submit properties."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1537
+msgid "Property Payments"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1538
+msgid ""
+"Users with a role of \"subscriber\" can be charged in order to publish "
+"properties. Admins and agents publish properties right away."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1543
+msgid "Enable property payments via PayPal"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1551
+msgid "Hide PayPal payment notifications on submit page"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1559
+msgid "Enable property subscription via PayPal"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1561
+msgid ""
+"If checked, recurring payments (subscriptions) will be charged instead of "
+"one-time payments."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1567
+msgid "Subscription Recurrences"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1569
+msgid "Charge subscription fee every .. (period)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1576
+msgid "Subscription Period"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1580
+msgid "Days"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1581
+msgid "Weeks"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1582
+msgid "Months"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1583
+msgid "Years"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1591
+msgid "PayPal merchant ID or email address"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1600
+msgid "IPN (Instant Payment Notification) email address"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1609
+msgid "Amount to pay per property"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1610
+msgid "Format: 25.00"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1618
+msgid "Charge additional .. to set property \"Featured\""
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1619
+msgid "Format: 10.00"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1620
+msgid "To disable \"Featured\" property option, set the amount to \"0\""
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1627
+msgid "PayPal currency code"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1636
+msgid "Enable PayPal sandbox for testing"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1637
+msgid "Disable to process live transactions."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1644
+msgid "Post payment over SSL connection"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1645
+msgid "Recommendation: Enable SSL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1646
+msgid "If disabled, HTTP connection will be used."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1652
+msgid "Auto publish properties on payment completion"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1653
+msgid "If disabled you have to publish properties manually."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1664
+#: ../lib/redux/sample/sample-config.php:514
+msgid "Typography"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1671
+msgid "Typography Header"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1696
+msgid "Typography Headings"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1723
+msgid "Typography Body"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1767
+msgid "Format Pricing"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1774
+msgid "Price Prefix"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1775
+msgid "e.g. \"from \""
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1776
+msgid ""
+"If filled out, prefix appears on every property price. Can be overwritten "
+"for each property."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1784
+msgid "e.g. \"/month\""
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1785
+msgid ""
+"If filled out, suffix appears on every property price. Can be overwritten "
+"for each property."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1792
+msgid "Currency Sign"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1793
+msgid "Default: $"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1801
+msgid "Currency Sign Position"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1802
+msgid "Default: left"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1814
+msgid "Thousands Separator"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1815
+msgid "Default: ,"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1823
+msgid "Price Decimals"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1824
+msgid "Default: 0"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1840
+msgid "Footer"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1848
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1862
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1875
+msgid "Footer Color"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1876
+msgid "Footer Color (default: #999999)"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1885
+msgid "Copyright Text"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1889
+msgid "&copy; 2014 - <a href=\"http://themetrail.com\">ThemeTrail</a>"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1894
+msgid "Display \"To The Top\" Button"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1902
+msgid "Display \"Property Search\" Button"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1915
+msgid "Social"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1922
+msgid "Faceook URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1931
+msgid "Twitter URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1940
+msgid "Google+ URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1949
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1958
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1967
+msgid "Instagram URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1976
+msgid "YouTube URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:1985
+msgid "Skype URL"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:2001
+msgid "Contact Details for Contact Page Template."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:2006
+msgid "Show Google Maps"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:2008
+msgid "Show Google Map on Contact Page Template."
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:2031
+msgid "Main St, New York, USA"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:2048
+msgid "Mobile"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:2118
+#: ../lib/redux/realty/realty-config.php:2119
+msgid "Theme Options"
+msgstr ""
+
+#: ../lib/redux/realty/realty-config.php:2225
+#: ../lib/redux/sample/sample-config.php:1776
+msgid "Support"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:222
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:222
+msgid "Redux Framework"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:226
+#: ../lib/redux/ReduxCore/framework.php:230
+msgid "Options"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:1383
+#: ../lib/redux/ReduxCore/framework.php:1384
+#: ../lib/redux/ReduxCore/framework.php:3230
+#: ../lib/redux/ReduxCore/framework.php:3309
+msgid "System Info"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:1687
+msgid "Enable"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:1692
+msgid "Disable"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:1698
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:1700
+msgid "clicking"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:1704
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:1709
+msgid "Hints"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:2974
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3025
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3054
+msgid "Expand"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3060
+#: ../lib/redux/ReduxCore/framework.php:3370
+msgid "Reset Section"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3062
+#: ../lib/redux/ReduxCore/framework.php:3372
+msgid "Reset All"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3067
+#: ../lib/redux/ReduxCore/framework.php:3377
+msgid "Working..."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3087
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3102
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3116
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3130
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3150
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3158
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/framework.php:3166
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/core/enqueue.php:346
+#: ../lib/redux/ReduxCore/extensions/customizer/extension_customizer.php:530
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/core/enqueue.php:354
+#: ../lib/redux/ReduxCore/extensions/customizer/extension_customizer.php:531
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/core/enqueue.php:362
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/core/enqueue.php:370
+#: ../lib/redux/ReduxCore/extensions/customizer/extension_customizer.php:532
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/core/enqueue.php:377
+msgid "Please Wait"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/extensions/customizer/extension_customizer.php:565
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/extensions/customizer/extension_customizer.php:566
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/extensions/customizer/extension_customizer.php:567
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/extensions/repeater/repeater/field_repeater.php:241
+msgid "Add"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/class.redux_functions.php:231
+msgid "Dismiss"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/debug.php:41
+#: ../lib/redux/ReduxCore/inc/debug.php:69
+#: ../lib/redux/ReduxCore/inc/debug.php:76
+#: ../lib/redux/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/import_export.php:140
+#: ../lib/redux/ReduxCore/inc/import_export.php:149
+#: ../lib/redux/ReduxCore/inc/import_export.php:150
+#: ../lib/redux/sample/sample-config.php:1590
+msgid "Import / Export"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:152
+#: ../lib/redux/ReduxCore/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:48
+#: ../lib/redux/ReduxCore/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:164
+#: ../lib/redux/ReduxCore/inc/welcome.php:333
+#: ../lib/redux/ReduxCore/inc/welcome.php:471
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:167
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:178
+#: ../lib/redux/ReduxCore/inc/welcome.php:182
+#: ../lib/redux/ReduxCore/inc/welcome.php:195
+#: ../lib/redux/ReduxCore/inc/welcome.php:199
+#: ../lib/redux/ReduxCore/inc/welcome.php:203
+#: ../lib/redux/ReduxCore/inc/welcome.php:208
+#: ../lib/redux/ReduxCore/inc/welcome.php:221
+#: ../lib/redux/ReduxCore/inc/welcome.php:225
+#: ../lib/redux/ReduxCore/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:223
+#: ../lib/redux/ReduxCore/inc/welcome.php:227
+#: ../lib/redux/ReduxCore/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:242
+#: ../lib/redux/ReduxCore/inc/welcome.php:246
+#: ../lib/redux/ReduxCore/inc/welcome.php:252
+#: ../lib/redux/ReduxCore/inc/welcome.php:256
+#: ../lib/redux/ReduxCore/inc/welcome.php:262
+#: ../lib/redux/ReduxCore/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:244
+#: ../lib/redux/ReduxCore/inc/welcome.php:248
+#: ../lib/redux/ReduxCore/inc/welcome.php:254
+#: ../lib/redux/ReduxCore/inc/welcome.php:258
+#: ../lib/redux/ReduxCore/inc/welcome.php:264
+#: ../lib/redux/ReduxCore/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:277
+#: ../lib/redux/ReduxCore/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:298
+#: ../lib/redux/ReduxCore/inc/welcome.php:336
+#: ../lib/redux/ReduxCore/inc/welcome.php:474
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:350
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:352
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:387
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:415
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:419
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:431
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:435
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:451
+msgid ""
+"<a href=\"https://asydigitaldownloads.com/extensions\" target=\"_blank\">The "
+"Extensions store</a> has a list of all available extensions, including "
+"convenient category filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/welcome.php:539
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:124
+#: ../lib/redux/ReduxCore/inc/fields/color/field_color.php:73
+#: ../lib/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../lib/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:277
+#: ../lib/redux/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/background/field_background.php:314
+#: ../lib/redux/ReduxCore/inc/fields/media/field_media.php:198
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/border/field_border.php:125
+#: ../lib/redux/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/border/field_border.php:138
+#: ../lib/redux/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/border/field_border.php:145
+#: ../lib/redux/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/border/field_border.php:152
+#: ../lib/redux/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/border/field_border.php:159
+#: ../lib/redux/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Height"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ../lib/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../lib/redux/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../lib/redux/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/gallery/field_gallery.php:73
+#: ../lib/redux/sample/sample-config.php:313
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/select/field_select.php:83
+#: ../lib/redux/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/select/field_select.php:134
+#: ../lib/redux/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:73
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:254
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:255
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:269
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Style"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Subsets"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Font script"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:336
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:337
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Text Align"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:359
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:360
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:361
+msgid "Text Transform"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:382
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:383
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:384
+msgid "Font Variant"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:402
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:403
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:404
+msgid "Text Decoration"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:426
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Font Size"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:435
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Line Height"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:444
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:445
+msgid "Word Spacing"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:453
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:454
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:472
+msgid "Font Color"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:474
+msgid "Font color"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:871
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/fields/typography/field_typography.php:972
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../lib/redux/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../lib/redux/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../lib/redux/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ../lib/redux/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../lib/redux/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:240
+msgid ""
+"Redux Framework was created with the developer in mind. It allows for any "
+"theme developer to have an advanced theme panel with most of the features a "
+"developer would need. For more information check out the Github repo at: <a "
+"href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github."
+"com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:248
+msgid "Web Fonts"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:252
+#: ../lib/redux/sample/sample-config.php:281
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:253
+#: ../lib/redux/sample/sample-config.php:282
+#: ../lib/redux/sample/sample-config.php:300
+#: ../lib/redux/sample/sample-config.php:308
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:262
+msgid "Section Show"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:263
+#: ../lib/redux/sample/sample-config.php:270
+msgid "With the \"section\" field you can create indent option sections."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:269
+msgid "Media Options"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:278
+msgid "Media w/ URL"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:298
+msgid "Media w/o URL"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:299
+#: ../lib/redux/sample/sample-config.php:307
+msgid ""
+"This represents the minimalistic view. It does not have the preview box or "
+"the display URL in an input box. "
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:306
+msgid "Media No Preview"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:314
+msgid ""
+"Create a new Gallery by selecting existing or uploading new images using the "
+"WordPress native uploader"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:315
+#: ../lib/redux/sample/sample-config.php:705
+#: ../lib/redux/sample/sample-config.php:716
+#: ../lib/redux/sample/sample-config.php:734
+#: ../lib/redux/sample/sample-config.php:832
+#: ../lib/redux/sample/sample-config.php:846
+#: ../lib/redux/sample/sample-config.php:855
+#: ../lib/redux/sample/sample-config.php:862
+#: ../lib/redux/sample/sample-config.php:875
+#: ../lib/redux/sample/sample-config.php:884
+#: ../lib/redux/sample/sample-config.php:893
+#: ../lib/redux/sample/sample-config.php:915
+#: ../lib/redux/sample/sample-config.php:928
+#: ../lib/redux/sample/sample-config.php:937
+#: ../lib/redux/sample/sample-config.php:952
+#: ../lib/redux/sample/sample-config.php:961
+#: ../lib/redux/sample/sample-config.php:970
+#: ../lib/redux/sample/sample-config.php:980
+#: ../lib/redux/sample/sample-config.php:996
+#: ../lib/redux/sample/sample-config.php:1004
+#: ../lib/redux/sample/sample-config.php:1023
+#: ../lib/redux/sample/sample-config.php:1031
+#: ../lib/redux/sample/sample-config.php:1039
+#: ../lib/redux/sample/sample-config.php:1053
+#: ../lib/redux/sample/sample-config.php:1061
+#: ../lib/redux/sample/sample-config.php:1111
+#: ../lib/redux/sample/sample-config.php:1124
+#: ../lib/redux/sample/sample-config.php:1144
+#: ../lib/redux/sample/sample-config.php:1158
+#: ../lib/redux/sample/sample-config.php:1186
+#: ../lib/redux/sample/sample-config.php:1219
+#: ../lib/redux/sample/sample-config.php:1228
+#: ../lib/redux/sample/sample-config.php:1236
+#: ../lib/redux/sample/sample-config.php:1245
+#: ../lib/redux/sample/sample-config.php:1253
+#: ../lib/redux/sample/sample-config.php:1262
+#: ../lib/redux/sample/sample-config.php:1270
+#: ../lib/redux/sample/sample-config.php:1279
+#: ../lib/redux/sample/sample-config.php:1287
+#: ../lib/redux/sample/sample-config.php:1296
+#: ../lib/redux/sample/sample-config.php:1306
+#: ../lib/redux/sample/sample-config.php:1314
+#: ../lib/redux/sample/sample-config.php:1323
+#: ../lib/redux/sample/sample-config.php:1331
+#: ../lib/redux/sample/sample-config.php:1340
+#: ../lib/redux/sample/sample-config.php:1390
+#: ../lib/redux/sample/sample-config.php:1401
+#: ../lib/redux/sample/sample-config.php:1415
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:320
+msgid "Slider Example 1"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:321
+msgid "This slider displays the value as a label."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:322
+msgid "Slider description. Min: 1, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:332
+msgid "Slider Example 2 with Steps (5)"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:333
+msgid "This example displays the value in a text box"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:334
+msgid "Slider description. Min: 0, max: 300, step: 5, default value: 75"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:344
+msgid "Slider Example 3 with two sliders"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:345
+msgid "This example displays the values in select boxes"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:346
+msgid ""
+"Slider description. Min: 0, max: 500, step: 5, slider 1 default value: 100, "
+"slider 2 default value: 300"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:360
+msgid "Slider Example 4 with float values"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:361
+msgid "This example displays float values"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:362
+msgid "Slider description. Min: 0, max: 1, step: .1, default value: .5"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:373
+msgid "JQuery UI Spinner Example 1"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:374
+msgid ""
+"JQuery UI spinner description. Min:20, max: 100, step:20, default value: 40"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:383
+msgid "Switch On"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:384
+#: ../lib/redux/sample/sample-config.php:391
+msgid "Look, it's on!"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:390
+msgid "Switch Off"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:398
+msgid "Switch - Nested Children, Enable to show"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:399
+msgid "Look, it's on! Also hidden child elements!"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:408
+msgid "Switch - This and the next switch required for patterns to show"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:409
+#: ../lib/redux/sample/sample-config.php:418
+msgid "Also called a \"fold\" parent."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:410
+#: ../lib/redux/sample/sample-config.php:419
+msgid ""
+"Items set with a fold to this ID will hide unless this is set to the "
+"appropriate value."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:417
+msgid "Switch2 - Enable the above switch and this one for patterns to show"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:430
+msgid "Images Option (with pattern=>true)"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:431
+msgid "Select a background pattern."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:477
+msgid "Slides Options"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:478
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:479
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:490
+msgid "Preset"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:491
+#: ../lib/redux/sample/sample-config.php:493
+msgid ""
+"This allows you to set a json string or array to override multiple "
+"preferences in your theme."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:536
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:555
+msgid "General Settings"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:561
+msgid "Main Layout"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:562
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:595
+msgid "Tracking Code"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:596
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:603
+msgid "CSS Code"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:604
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:635
+msgid "Footer Text"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:636
+msgid ""
+"You can use the following shortcodes in your footer text: [wp-url] [site-"
+"url] [theme-url] [login-url] [logout-url] [site-title] [site-tagline] "
+"[current-year]"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:651
+msgid "Styling Options"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:657
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:658
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:667
+msgid "Pick a background color for the theme (default: #fff)."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:675
+msgid "Body Background"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:676
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:682
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:683
+msgid "Pick a background color for the footer (default: #dd9933)."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:690
+msgid "Color RGBA"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:691
+msgid "Gives you the RGBA color."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:703
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:704
+#: ../lib/redux/sample/sample-config.php:715
+#: ../lib/redux/sample/sample-config.php:731
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:714
+msgid "Links Color Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:730
+msgid "Header Border Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:760
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:761
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:762
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:775
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:776
+msgid "Allow your users to choose width, height, and/or unit."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:777
+msgid ""
+"You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:786
+msgid "Body Font"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:787
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:799
+msgid "Custom CSS"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:800
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:801
+msgid "This field is even CSS validated!"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:807
+msgid "Custom HTML"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:808
+msgid "Just like a text box widget."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:809
+msgid "This field is even HTML validated!"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:823
+msgid "Field Validation"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:824
+msgid "Validate ALL fields within Redux."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:825
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed2</p>"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:830
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:831
+msgid ""
+"This is a little space under the Field Title in the Options table, "
+"additional info is good in here."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:844
+msgid "Text Option with Data Attributes"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:845
+msgid ""
+"You can also pass an options array if you want. Set the default to whatever "
+"you like."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:852
+msgid "Multi Text Option - Color Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:854
+msgid ""
+"If you enter an invalid color it will be removed. Try using the text \"blue"
+"\" as a color.  ;)"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:860
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:861
+msgid "This must be a URL."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:873
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:874
+msgid "This must be numeric."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:882
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:883
+msgid "This must be a comma separated string of numerical values."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:891
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:892
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:900
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:901
+#: ../lib/redux/sample/sample-config.php:914
+#: ../lib/redux/sample/sample-config.php:927
+#: ../lib/redux/sample/sample-config.php:936
+msgid "You decide."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:902
+msgid "This field's default value was changed by a filter hook!"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:913
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:926
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:935
+msgid "Text Option - Custom Callback Validated - Class"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:950
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:951
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:959
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:960
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:968
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:969
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:978
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:979
+msgid "JS will be escaped"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:988
+msgid "Radio/Checkbox Fields"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:989
+#: ../lib/redux/sample/sample-config.php:1137
+#: ../lib/redux/sample/sample-config.php:1383
+#: ../lib/redux/sample/sample-config.php:1611
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:994
+msgid "Checkbox Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:995
+#: ../lib/redux/sample/sample-config.php:1003
+#: ../lib/redux/sample/sample-config.php:1022
+#: ../lib/redux/sample/sample-config.php:1030
+#: ../lib/redux/sample/sample-config.php:1038
+#: ../lib/redux/sample/sample-config.php:1052
+#: ../lib/redux/sample/sample-config.php:1060
+#: ../lib/redux/sample/sample-config.php:1075
+#: ../lib/redux/sample/sample-config.php:1143
+#: ../lib/redux/sample/sample-config.php:1157
+#: ../lib/redux/sample/sample-config.php:1185
+#: ../lib/redux/sample/sample-config.php:1218
+#: ../lib/redux/sample/sample-config.php:1227
+#: ../lib/redux/sample/sample-config.php:1235
+#: ../lib/redux/sample/sample-config.php:1244
+#: ../lib/redux/sample/sample-config.php:1252
+#: ../lib/redux/sample/sample-config.php:1261
+#: ../lib/redux/sample/sample-config.php:1269
+#: ../lib/redux/sample/sample-config.php:1278
+#: ../lib/redux/sample/sample-config.php:1286
+#: ../lib/redux/sample/sample-config.php:1295
+#: ../lib/redux/sample/sample-config.php:1313
+#: ../lib/redux/sample/sample-config.php:1322
+#: ../lib/redux/sample/sample-config.php:1330
+#: ../lib/redux/sample/sample-config.php:1339
+#: ../lib/redux/sample/sample-config.php:1347
+#: ../lib/redux/sample/sample-config.php:1389
+#: ../lib/redux/sample/sample-config.php:1400
+#: ../lib/redux/sample/sample-config.php:1414
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1002
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1021
+#: ../lib/redux/sample/sample-config.php:1051
+msgid "Multi Checkbox Option (with menu data)"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1029
+msgid "Multi Checkbox Option (with sidebar data)"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1037
+msgid "Radio Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1059
+msgid "Images Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1074
+msgid "Images Option for Layout"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1076
+msgid ""
+"This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1109
+#: ../lib/redux/sample/sample-config.php:1122
+msgid "Sortable Text Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1110
+#: ../lib/redux/sample/sample-config.php:1123
+msgid "Define and reorder these however you want."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1136
+msgid "Select Fields"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1142
+msgid "Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1156
+msgid "Select Option with optgroup"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1184
+msgid "Multi Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1199
+msgid "Select Image"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1200
+msgid "A preview of the selected image will appear underneath the select box."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1211
+msgid "You can easily add a variety of data from WordPress."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1217
+msgid "Categories Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1226
+msgid "Categories Multi Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1234
+msgid "Pages Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1243
+msgid "Pages Multi Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1251
+msgid "Tags Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1260
+msgid "Tags Multi Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1268
+msgid "Menus Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1277
+msgid "Menus Multi Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1285
+msgid "Post Type Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1294
+msgid "Post Type Multi Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1304
+msgid "Post Type Multi Select Option + Sortable"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1305
+msgid "This field also has sortable enabled!"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1312
+msgid "Posts Select Option2"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1321
+msgid "Posts Multi Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1329
+msgid "User Role Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1338
+msgid "Capabilities Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1346
+msgid "Elusive Icons Select Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1348
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1354
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1355
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1356
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1360
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1382
+msgid "Additional Fields"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1388
+msgid "Date Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1399
+msgid "Button Set Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1413
+msgid "Button Set, Multi Select"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1428
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1434
+#: ../lib/redux/sample/sample-config.php:1442
+#: ../lib/redux/sample/sample-config.php:1450
+#: ../lib/redux/sample/sample-config.php:1464
+#: ../lib/redux/sample/sample-config.php:1472
+#: ../lib/redux/sample/sample-config.php:1481
+#: ../lib/redux/sample/sample-config.php:1490
+#: ../lib/redux/sample/sample-config.php:1499
+msgid "This is a title."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1435
+msgid "This is an info field with the warning style applied and a header."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1443
+msgid ""
+"This is an info field with the success style applied, a header and an icon."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1451
+msgid ""
+"This is an info field with the critical style applied, a header and an icon."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1465
+msgid ""
+"This is an info notice field with the normal style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1473
+msgid ""
+"This is an info notice field with the info style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1482
+msgid ""
+"This is an info notice field with the warning style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1491
+msgid ""
+"This is an info notice field with the success style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1500
+msgid ""
+"This is an notice field with the critical style applied, a header and an "
+"icon."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1505
+msgid "Custom Field Callback"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1506
+#: ../lib/redux/sample/sample-config.php:1514
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1507
+#: ../lib/redux/sample/sample-config.php:1515
+msgid ""
+"This is created with a callback function, so anything goes in this field. "
+"Make sure to define the function though."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1513
+msgid "Custom Field Callback - Class"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1523
+#: ../lib/redux/sample/sample-config.php:1547
+msgid "Customizer Only Option"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1524
+#: ../lib/redux/sample/sample-config.php:1548
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1525
+#: ../lib/redux/sample/sample-config.php:1549
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1540
+msgid "Customizer Only"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1541
+msgid ""
+"<p class=\"description\">This Section should be visible only in Customizer</"
+"p>"
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1591
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../lib/redux/sample/sample-config.php:1610
+msgid "Theme Information"
+msgstr ""
+
+#: ../lib/redux/tests/includes/class-tivwp-dm-controller.php:28
+msgid "Must call in of after the \"plugins_loaded\" action."
+msgstr ""
+
+#: ../lib/redux/tests/includes/class-tivwp-dm-controller.php:138
+#, php-format
+msgid "Unknown action \"%1$s\" specified for %2$s"
+msgstr ""
+
+#: ../lib/redux/tests/includes/class-tivwp-dm-controller.php:143
+#, php-format
+msgid "The unknown action has been replaced with \"%s\""
+msgstr ""
+
+#: ../lib/redux/tests/includes/class-tivwp-dm-controller.php:158
+#, php-format
+msgid "Automatic action performed: \"%s\""
+msgstr ""
+
+#: ../lib/redux/tests/includes/class-tivwp-dm.php:112
+msgid "Activate Development Plugins"
+msgstr ""
+
+#: ../lib/redux/tests/includes/class-tivwp-dm.php:119
+msgid "Deactivate Development Plugins"
+msgstr ""
+
+#: ../lib/redux/tests/includes/class-tivwp-dm.php:131
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:196 ../lib/tgm/plugins.php:64
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:197 ../lib/tgm/plugins.php:65
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:198 ../lib/tgm/plugins.php:66
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:210 ../lib/tgm/plugins.php:78
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:212
+#: ../lib/tgm/class-tgm-plugin-activation.php:1965 ../lib/tgm/plugins.php:79
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:213
+#: ../lib/tgm/class-tgm-plugin-activation.php:1652
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:556
+#: ../lib/tgm/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1304
+#: ../lib/tgm/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1326
+#: ../lib/tgm/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2079
+#: ../lib/tgm/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2079
+#: ../lib/tgm/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/tgm/plugins.php:67
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lib/tgm/plugins.php:80
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../lib/widgets/widget-agents.php:13 ../lib/widgets/widget-agents.php:25
+msgid "Featured Agent"
+msgstr ""
+
+#: ../lib/widgets/widget-agents.php:14
+msgid "Realty - Featured Agent"
+msgstr ""
+
+#: ../lib/widgets/widget-agents.php:37
+#: ../lib/widgets/widget-featured-properties.php:39
+#: ../lib/widgets/widget-latest-posts.php:31
+#: ../lib/widgets/widget-property-search.php:30
+#: ../lib/widgets/widget-testimonials.php:39
+msgid "Title:"
+msgstr ""
+
+#: ../lib/widgets/widget-agents.php:42
+msgid "Choose Featured Agent:"
+msgstr ""
+
+#: ../lib/widgets/widget-agents.php:54
+msgid "Show Random Agent:"
+msgstr ""
+
+#: ../lib/widgets/widget-featured-properties.php:14
+msgid "Realty - Featured Properties"
+msgstr ""
+
+#: ../lib/widgets/widget-featured-properties.php:27
+#: ../lib/widgets/widget-latest-posts.php:26
+#: ../lib/widgets/widget-testimonials.php:27
+msgid "3"
+msgstr ""
+
+#: ../lib/widgets/widget-featured-properties.php:44
+msgid "Total Number of Properties to Display:"
+msgstr ""
+
+#: ../lib/widgets/widget-featured-properties.php:49
+#: ../lib/widgets/widget-testimonials.php:49
+msgid "Instead of Newest First, Order Random:"
+msgstr ""
+
+#: ../lib/widgets/widget-latest-posts.php:13
+msgid "Posts"
+msgstr ""
+
+#: ../lib/widgets/widget-latest-posts.php:14
+msgid "Realty - Latest Posts"
+msgstr ""
+
+#: ../lib/widgets/widget-latest-posts.php:25
+msgid "Latest Posts"
+msgstr ""
+
+#: ../lib/widgets/widget-latest-posts.php:36
+msgid "Total Number of Posts to Display:"
+msgstr ""
+
+#: ../lib/widgets/widget-property-search.php:14
+msgid "Realty - Property Search"
+msgstr ""
+
+#: ../lib/widgets/widget-testimonials.php:14
+msgid "Realty - Testimonials"
+msgstr ""
+
+#: ../lib/widgets/widget-testimonials.php:44
+msgid "Total Number of Testimonial to Display:"
+msgstr ""

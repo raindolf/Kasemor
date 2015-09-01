@@ -1,0 +1,91 @@
+.redux-container {
+	margin-top: 10px;
+}
+
+.redux-container #redux-header .display_header {
+	margin: 1em 0.5em;
+}
+
+.admin-color-fresh #redux-header {
+	border-bottom: 1px solid #E7E7E7;
+	background: #f1f1f1;
+	background-image: -ms-linear-gradient(top,#f9f9f9,#ececec);
+	background-image: -moz-linear-gradient(top,#f9f9f9,#ececec);
+	background-image: -o-linear-gradient(top,#f9f9f9,#ececec);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#f9f9f9),to(#ececec));
+	background-image: -webkit-linear-gradient(top,#f9f9f9,#ececec);
+	background-image: linear-gradient(top,#f9f9f9,#ececec);
+}
+
+#redux-header h2 {
+	color: inherit;
+}
+
+p.description, span.description {
+	font-size: 12px;
+	line-height: 1.5;
+	color: #888 !important;
+}
+
+.redux-main .field-desc {
+	font-size: 12px;	
+	line-height: 1.7;
+	color: #888 !important;
+}
+
+.redux-container-image_select .redux-image-select img, .redux-container-image_select .redux-image-select .tiles {
+	border-color: #ccc;
+	border-radius: 2px;
+	padding: 4px;
+}
+
+.redux-container-image_select .redux-image-select-selected img, .redux-container-image_select .redux-image-select-selected .tiles {
+	border-color: #666;
+	border-radius: 2px;
+	padding: 4px;
+}
+
+/*  */
+.select2-container {
+	width: 100% !important;
+}
+
+.select2-container-multi .select2-choices {
+	padding: 5px;	
+}
+
+.select2-container-multi .select2-choices .select2-search-choice {
+	margin: 5px;
+}
+
+fieldset {
+	margin: 0;
+	border: none;
+}
+
+.redux-container .redux-section-field {
+	border-bottom: 1px solid #eee;
+}
+
+.redux-container .redux-section-field.redux-field h3 {
+	margin: 0;
+	padding: 20px 0;
+	line-height: 1;
+	color: #999;
+	text-transform: uppercase;
+	border: none;
+}
+
+.redux-container .redux-section-field.redux-field .redux-section-desc {
+	
+}
+
+[id^=realty_theme_option-property-custom-meta-data-], [id^=realty_theme_option-property-custom-listing-] {
+	float: left;
+	width: 24%;
+	margin-right: 1%;
+}
+
+[id^=realty_theme_option-property-custom-meta-data-] input[type=text], [id^=realty_theme_option-property-custom-listing-] input[type=text] {
+	width: 100%;
+}

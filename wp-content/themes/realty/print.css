@@ -1,0 +1,96 @@
+/* Print Stylesheet
+https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css
+https://github.com/twbs/bootstrap/blob/0dea8b0c7473c1db4aea7accfd0a68cbf09b9576/less/print.less
+-------------------------*/
+@media print {
+  body {
+    font-family: Georgia, serif !important;
+    font-size: 10pt;
+    color: #000;
+  }
+  a {
+    color: #000 !important;
+  }
+  a[href]:after {
+    content: none;
+  }
+  body.single-property #property-layout-full-width {
+    margin-top: 0;
+  }
+  body.single-property .property-image {
+    position: static !important;
+  }
+  body.single-property .property-image-container {
+    height: auto !important;
+  }
+  body.single-property .property-image-container .flexslider-thumbnail {
+    height: auto !important;
+  }
+  body.single-property .property-image-container .flexslider-thumbnail .flex-viewport ul.slides {
+    width: 100% !important;
+  }
+  body.single-property .property-image-container .flexslider-thumbnail li {
+    display: none !important;
+    width: 100% !important;
+    margin: 0;
+  }
+  body.single-property .property-image-container .flexslider-thumbnail li.flex-active-slide {
+    display: block !important;
+  }
+  body.single-property .property-header-container {
+    position: static;
+  }
+  body.single-property .property-header-container .property-header .container,
+  body.single-property .property-header-container .property-header h1.title,
+  body.single-property .property-header-container .property-header .meta {
+    padding: 0;
+  }
+  body.single-property .property-meta {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+  }
+  body.single-property .content-box {
+    padding: 0;
+  }
+  body.single-property .section-title {
+    margin-bottom: 0.5em;
+    font-weight: 700;
+    text-transform: none;
+  }
+  body.single-property #location,
+  body.single-property #agent {
+    page-break-before: always !important;
+  }
+  body.single-property #property-features {
+    clear: both;
+  }
+  body.single-property #property-features li a {
+    line-height: 20px;
+  }
+  body.single-property #location .title,
+  body.single-property #agent .title {
+    font-size: 1.5em;
+  }
+  body.single-property #location .social-transparent,
+  body.single-property #agent .social-transparent,
+  body.single-property #location .agent-more-link,
+  body.single-property #agent .agent-more-link {
+    display: none;
+  }
+  .property-image-container,
+  .property-video-thumbnail,
+  .add-to-favorites,
+  #footer,
+  #sidebar,
+  #print,
+  #map-controls,
+  .view-on-google-maps-link,
+  .social-transparent,
+  #agent h4,
+  #agent img,
+  #contact-form-agent,
+  #fixed-controls,
+  #contact-form {
+    display: none !important;
+  }
+}
